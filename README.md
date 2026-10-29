@@ -155,3 +155,40 @@ The data quality audit detects all four labeled anomaly types. Full-scale genera
 ## Security
 
 Local environment files, virtual environments, and database backups are excluded from version control. Do not publish credentials, production data, or database backup files.
+## REST API
+
+LearnGuard Analytics provides a FastAPI backend for learner progress, course recommendations, learning paths, and learning-content access.
+
+### Start the API
+
+Activate your virtual environment and run:
+
+```powershell
+python -m uvicorn src.api:app --reload
+```
+
+Open the interactive API documentation:
+
+http://127.0.0.1:8000/docs
+
+### Available Endpoints
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | `/` | API information |
+| GET | `/health` | API and database health check |
+| GET | `/learners/{learner_id}/mastery` | Retrieve learner course progress |
+| GET | `/learners/{learner_id}/recommendations` | Retrieve learning recommendations |
+| POST | `/learners/{learner_id}/learning-paths` | Generate a learning path response |
+| GET | `/learners/{learner_id}/courses/{course_id}/learning-content` | Retrieve enrolled course content |
+
+### API Limitations
+
+The learning-path endpoint generates a response but does not persist a learning-path record. The API has been tested against the current staging dataset.
+
+## Known Limitations
+
+- The current database contains the test dataset, not the full-scale target dataset.
+- Full-scale generation and validation remain outstanding.
+- Two anomaly-related validation checks require review in the current test dataset.
+- The learning-path endpoint does not persist generated paths.
