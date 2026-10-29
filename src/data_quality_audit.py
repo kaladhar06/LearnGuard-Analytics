@@ -4,186 +4,203 @@ from pathlib import Path
 
 from src.db_connection import get_connection
 
-
 STAGING_DATABASE = "learnguard_staging"
-
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-REPORT_PATH = (
-    PROJECT_ROOT / "reports" / "data_quality_impact_audit.csv"
-)
+REPORT_PATH = Path("reports") / "data_quality_impact_audit.csv"
 
 REPORT_COLUMNS = [
     "anomaly_type",
     "detected_count",
-    "affected_metric",
-    "before_value",
-    "after_value",
+    "metric",
+    "before",
+    "after",
     "impact",
-    "recommended_action",
+    "action",
 ]
 
 
-def fetch_one(cursor, query, params=None):
-    """Execute a query and return its first scalar result."""
-    cursor.execute(query, params or ())
-    result = cursor.fetchone()
-    return int(result[0] or 0)
+def add_result(results, anomaly_type, detected_count, metric,
+               before, after, impact, action):
+    results.append({
+        "anomaly_type": anomaly_type,
+        "detected_count": detected_count,
+        "metric": metric,
+        "before": before,
+        "after": after,
+        "impact": impact,
+        "action": action,
+    })
 
 
-def audit_duplicate_events(cursor, raw_events):
-    duplicate_groups = fetch_one(
-        cursor,
-        """
-        SELECT COUNT(*)
+def audit_duplicate_events(cursor, results, raw_events):
+    cursor.execute("""
+        SELECT COUNT(*), COALESCE(SUM(n - 1), 0)
         FROM (
-            SELECT idempotency_key
+            SELECT idempotency_key, COUNT(*) AS n
             FROM ActivityEvent
             WHERE idempotency_key IS NOT NULL
             GROUP BY idempotency_key
             HAVING COUNT(*) > 1
-        ) AS duplicate_groups
-        """,
-    )
+        ) d
+    """)
+    groups, excess = cursor.fetchone()
 
-    excess_rows = fetch_one(
-        cursor,
-        """
-        SELECT COALESCE(SUM(event_count - 1), 0)
-        FROM (
-            SELECT COUNT(*) AS event_count
-            FROM ActivityEvent
-            WHERE idempotency_key IS NOT NULL
-            GROUP BY idempotency_key
-            HAVING COUNT(*) > 1
-        ) AS duplicate_groups
-        """,
-    )
-
-    distinct_keys = fetch_one(
-        cursor,
-        """
+    cursor.execute("""
         SELECT COUNT(DISTINCT idempotency_key)
         FROM ActivityEvent
         WHERE idempotency_key IS NOT NULL
-        """,
+    """)
+    distinct_keys = cursor.fetchone()[0]
+
+    add_result(
+        results, "duplicate_event", groups, "logical_activity_events",
+        raw_events, raw_events - excess,
+        f"{excess} excess row(s) across {groups} repeated key group(s); "
+        f"{distinct_keys} distinct non-null idempotency keys.",
+        "Deduplicate by idempotency key for logical activity metrics. "
+        "Preserve source records and investigate null keys separately."
     )
 
-    return {
-        "anomaly_type": "duplicate_event",
-        "detected_count": duplicate_groups,
-        "affected_metric": "logical_activity_events",
-        "before_value": raw_events,
-        "after_value": raw_events - excess_rows,
-        "impact": (
-            f"{excess_rows} excess row(s) across "
-            f"{duplicate_groups} repeated key group(s); "
-            f"{distinct_keys} distinct non-null idempotency keys."
-        ),
-        "recommended_action": (
-            "Deduplicate by idempotency key when calculating logical "
-            "activity metrics. Preserve source records and investigate "
-            "null keys separately."
-        ),
-    }
 
-
-def audit_unenrolled_activity(cursor, raw_events):
-    unenrolled_events = fetch_one(
-        cursor,
-        """
+def audit_unenrolled_activity(cursor, results, raw_events):
+    # Only events with a learner and a known content item can be
+    # evaluated using the content-to-course enrollment relationship.
+    # Assessment submissions without content_id are not automatically
+    # invalid; they are checked separately through their enrollment.
+    cursor.execute("""
         SELECT COUNT(*)
-        FROM ActivityEvent ae
+        FROM ActivityEvent e
         JOIN ContentItem ci
-            ON ci.content_id = ae.content_id
-        WHERE NOT EXISTS (
-            SELECT 1
-            FROM Enrollment e
-            WHERE e.learner_id = ae.learner_id
-              AND e.course_id = ci.course_id
-        )
-        """,
+          ON ci.content_id = e.content_id
+        WHERE e.learner_id IS NOT NULL
+          AND (
+              NOT EXISTS (
+                  SELECT 1
+                  FROM Enrollment en
+                  WHERE en.learner_id = e.learner_id
+                    AND en.course_id = ci.course_id
+              )
+              OR (
+                  e.enrollment_id IS NOT NULL
+                  AND NOT EXISTS (
+                      SELECT 1
+                      FROM Enrollment en2
+                      WHERE en2.enrollment_id = e.enrollment_id
+                        AND en2.learner_id = e.learner_id
+                        AND en2.course_id = ci.course_id
+                  )
+              )
+          )
+    """)
+    invalid_content_events = cursor.fetchone()[0]
+
+    # Check events explicitly marked as unenrolled, including events
+    # without content_id. Use the label as supporting evidence, while
+    # the relationship check above identifies actual content mismatches.
+    cursor.execute("""
+        SELECT COUNT(*)
+        FROM ActivityEvent e
+        WHERE e.issue_type = 'unenrolled_activity'
+          AND e.learner_id IS NOT NULL
+          AND NOT EXISTS (
+              SELECT 1
+              FROM Enrollment en
+              WHERE en.learner_id = e.learner_id
+                AND (
+                    e.enrollment_id IS NULL
+                    OR en.enrollment_id = e.enrollment_id
+                )
+                AND (
+                    e.content_id IS NULL
+                    OR EXISTS (
+                        SELECT 1
+                        FROM ContentItem ci
+                        WHERE ci.content_id = e.content_id
+                          AND ci.course_id = en.course_id
+                    )
+                )
+          )
+    """)
+    explicitly_unenrolled = cursor.fetchone()[0]
+
+    invalid_events = max(invalid_content_events, explicitly_unenrolled)
+
+    add_result(
+        results, "unenrolled_activity", invalid_events,
+        "eligible_activity_rows", raw_events, raw_events - invalid_events,
+        f"{invalid_events} event(s) failed the learner-enrollment "
+        "relationship check. Events without content_id are not rejected "
+        "solely because that field is NULL.",
+        "Exclude or quarantine confirmed invalid events from "
+        "enrollment-based metrics. Preserve source records."
     )
 
-    return {
-        "anomaly_type": "unenrolled_activity",
-        "detected_count": unenrolled_events,
-        "affected_metric": "eligible_activity_rows",
-        "before_value": raw_events,
-        "after_value": raw_events - unenrolled_events,
-        "impact": (
-            f"{unenrolled_events} event(s) have no matching enrollment "
-            "for the learner and content's course."
-        ),
-        "recommended_action": (
-            "Exclude or quarantine these events from enrollment-based "
-            "metrics. Preserve source records for investigation."
-        ),
-    }
 
-
-def audit_premature_completion(cursor):
-    premature_count = fetch_one(
-        cursor,
-        """
+def audit_premature_completion(cursor, results):
+    cursor.execute("""
         SELECT COUNT(*)
         FROM CourseOutcome co
-        JOIN Enrollment e
-            ON e.enrollment_id = co.enrollment_id
-        JOIN CompletionRule cr
-            ON cr.rule_id = co.rule_id
         WHERE co.outcome_status = 'completed'
-          AND cr.require_assessment_pass = 1
-          AND (
-              co.outcome_id = 'ANOM-OUTCOME-003'
-              OR co.decision_reason LIKE 'TEST ANOMALY:%'
+          AND co.assessment_passed = 1
+          AND EXISTS (
+              SELECT 1
+              FROM Attempt a
+              JOIN Assessment s
+                ON s.assessment_id = a.assessment_id
+              WHERE a.enrollment_id = co.enrollment_id
+                AND a.attempt_status = 'graded'
+                AND a.score >= s.passing_score
+                AND a.submitted_at > co.calculated_at
           )
-        """,
+          AND NOT EXISTS (
+              SELECT 1
+              FROM Attempt a2
+              JOIN Assessment s2
+                ON s2.assessment_id = a2.assessment_id
+              WHERE a2.enrollment_id = co.enrollment_id
+                AND a2.attempt_status = 'graded'
+                AND a2.score >= s2.passing_score
+                AND a2.submitted_at <= co.calculated_at
+          )
+    """)
+    count = cursor.fetchone()[0]
+
+    add_result(
+        results, "premature_completion", count,
+        "eligible_completion_records", count, 0,
+        f"{count} completed outcome(s) have a passing graded attempt "
+        "only after the recorded completion timestamp.",
+        "Recalculate completion using assessment timestamps and "
+        "applicable completion rules. Preserve source records."
     )
 
-    return {
-        "anomaly_type": "premature_completion",
-        "detected_count": premature_count,
-        "affected_metric": "eligible_completion_records",
-        "before_value": premature_count,
-        "after_value": 0,
-        "impact": (
-            f"{premature_count} flagged test completion record(s) "
-            "are excluded from trusted completion metrics pending review."
-        ),
-        "recommended_action": (
-            "Recalculate completion using valid assessment timestamps "
-            "and completion rules. Keep the flagged source record."
-        ),
-    }
 
-
-def audit_timezone_shift(cursor):
-    shifted_events = fetch_one(
-        cursor,
-        """
+def audit_timezone_shift(cursor, results):
+    cursor.execute("""
         SELECT COUNT(*)
         FROM ActivityEvent
         WHERE issue_type = 'timezone_shift'
-          AND DATE(event_time_utc)
-              <> DATE(DATE_ADD(event_time_utc, INTERVAL 330 MINUTE))
-        """,
+          AND event_time_utc IS NOT NULL
+          AND DATE(event_time_utc) <>
+              DATE(DATE_ADD(event_time_utc, INTERVAL 330 MINUTE))
+    """)
+    count = cursor.fetchone()[0]
+
+    add_result(
+        results, "timezone_shift", count, "reporting_day_mismatches",
+        count, 0,
+        f"{count} flagged event(s) cross a calendar-day boundary "
+        "between UTC and Asia/Kolkata.",
+        "Keep timestamps in UTC and convert to Asia/Kolkata for "
+        "reporting dates. Do not delete events."
     )
 
-    return {
-        "anomaly_type": "timezone_shift",
-        "detected_count": shifted_events,
-        "affected_metric": "reporting_day_mismatches",
-        "before_value": shifted_events,
-        "after_value": 0,
-        "impact": (
-            f"{shifted_events} flagged event(s) cross a calendar-day "
-            "boundary between UTC and Asia/Kolkata."
-        ),
-        "recommended_action": (
-            "Store timestamps in UTC and convert to Asia/Kolkata "
-            "when calculating reporting dates. Do not delete events."
-        ),
-    }
+
+def save_report(results):
+    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with REPORT_PATH.open("w", newline="", encoding="utf-8-sig") as f:
+        writer = csv.DictWriter(f, fieldnames=REPORT_COLUMNS)
+        writer.writeheader()
+        writer.writerows(results)
 
 
 def main():
@@ -191,85 +208,60 @@ def main():
     cursor = None
 
     try:
-        connection = get_connection(
-            database=STAGING_DATABASE
-        )
+        connection = get_connection(database=STAGING_DATABASE)
         cursor = connection.cursor()
-
         cursor.execute("SELECT DATABASE()")
-        active_database = cursor.fetchone()[0]
+        database = cursor.fetchone()[0]
 
-        if active_database != STAGING_DATABASE:
+        if database != STAGING_DATABASE:
             raise RuntimeError(
-                f"Safety check failed: connected to {active_database}"
+                f"Safety check failed: connected to {database}, "
+                f"expected {STAGING_DATABASE}."
             )
 
-        raw_events = fetch_one(
-            cursor,
-            "SELECT COUNT(*) FROM ActivityEvent",
-        )
+        cursor.execute("SELECT COUNT(*) FROM ActivityEvent")
+        raw_events = cursor.fetchone()[0]
 
-        baseline_events = fetch_one(
-            cursor,
-            """
+        cursor.execute("""
             SELECT COUNT(*)
             FROM ActivityEvent
             WHERE event_id LIKE 'EVT-%'
-            """,
-        )
+        """)
+        baseline_events = cursor.fetchone()[0]
 
-        report_rows = [
-            audit_duplicate_events(cursor, raw_events),
-            audit_unenrolled_activity(cursor, raw_events),
-            audit_premature_completion(cursor),
-            audit_timezone_shift(cursor),
-        ]
+        results = []
+        audit_duplicate_events(cursor, results, raw_events)
+        audit_unenrolled_activity(cursor, results, raw_events)
+        audit_premature_completion(cursor, results)
+        audit_timezone_shift(cursor, results)
 
-        REPORT_PATH.parent.mkdir(
-            parents=True,
-            exist_ok=True,
-        )
-
-        with REPORT_PATH.open(
-            "w",
-            newline="",
-            encoding="utf-8",
-        ) as csv_file:
-            writer = csv.DictWriter(
-                csv_file,
-                fieldnames=REPORT_COLUMNS,
-            )
-            writer.writeheader()
-            writer.writerows(report_rows)
-
+        print()
         print("LEARNGUARD ANALYTICS - DATA QUALITY IMPACT AUDIT")
         print("=" * 60)
-        print(f"Database: {active_database}")
+        print(f"Database: {database}")
         print(f"Total activity rows: {raw_events:,}")
         print(f"Baseline activity rows: {baseline_events:,}")
 
-        for row in report_rows:
-            print(
-                f"\nAnomaly: {row['anomaly_type']}\n"
-                f"Detected: {row['detected_count']}\n"
-                f"Metric: {row['affected_metric']}\n"
-                f"Before: {row['before_value']}\n"
-                f"After: {row['after_value']}\n"
-                f"Impact: {row['impact']}\n"
-                f"Action: {row['recommended_action']}"
-            )
+        for result in results:
+            print(f"\nAnomaly: {result['anomaly_type']}")
+            print(f"Detected: {result['detected_count']}")
+            print(f"Metric: {result['metric']}")
+            print(f"Before: {result['before']}")
+            print(f"After: {result['after']}")
+            print(f"Impact: {result['impact']}")
+            print(f"Action: {result['action']}")
 
+        save_report(results)
         print("\n" + "=" * 60)
-        print(f"Report saved to: {REPORT_PATH}")
+        print(f"Report saved to: {REPORT_PATH.resolve()}")
 
     except Exception as error:
-        print(f"DATA QUALITY AUDIT ERROR: {error}")
+        print(f"Audit failed: {error}")
         raise
 
     finally:
         if cursor is not None:
             cursor.close()
-
         if connection is not None:
             connection.close()
 
