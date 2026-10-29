@@ -27,7 +27,7 @@ def main():
     cursor = None
 
     try:
-        connection = get_connection()
+        connection = get_connection(database="learnguard_staging")
         cursor = connection.cursor()
 
         print("LEARNGUARD ANALYTICS — PREFLIGHT CHECK")
@@ -42,7 +42,7 @@ def main():
         database_name = cursor.fetchone()[0]
         print(f"Connected database: {database_name}")
 
-        if database_name != "learnguard_analytics":
+        if database_name != "learnguard_staging":
             raise RuntimeError(
                 "Safety check failed: unexpected database."
             )
