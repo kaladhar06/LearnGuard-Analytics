@@ -1,7 +1,7 @@
 {
   "project": "LearnGuard Analytics",
   "database": "learnguard_staging",
-  "exported_at_utc": "2026-10-29T06:10:04.949885+00:00",
+  "exported_at_utc": "2026-10-29T07:21:52.988087+00:00",
   "tables": {
     "Learner": {
       "row_count": 100,
