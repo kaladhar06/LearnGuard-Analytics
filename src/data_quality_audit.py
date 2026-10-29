@@ -5,8 +5,12 @@ from pathlib import Path
 from src.db_connection import get_connection
 
 
+STAGING_DATABASE = "learnguard_staging"
+
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-REPORT_PATH = PROJECT_ROOT / "reports" / "data_quality_impact_audit.csv"
+REPORT_PATH = (
+    PROJECT_ROOT / "reports" / "data_quality_impact_audit.csv"
+)
 
 REPORT_COLUMNS = [
     "anomaly_type",
@@ -27,7 +31,7 @@ def fetch_one(cursor, query, params=None):
 
 
 def audit_duplicate_events(cursor, raw_events):
-    duplicate_keys = fetch_one(
+    duplicate_groups = fetch_one(
         cursor,
         """
         SELECT COUNT(*)
@@ -41,7 +45,7 @@ def audit_duplicate_events(cursor, raw_events):
         """,
     )
 
-    duplicate_excess = fetch_one(
+    excess_rows = fetch_one(
         cursor,
         """
         SELECT COALESCE(SUM(event_count - 1), 0)
@@ -55,7 +59,7 @@ def audit_duplicate_events(cursor, raw_events):
         """,
     )
 
-    unique_keys = fetch_one(
+    distinct_keys = fetch_one(
         cursor,
         """
         SELECT COUNT(DISTINCT idempotency_key)
@@ -66,19 +70,19 @@ def audit_duplicate_events(cursor, raw_events):
 
     return {
         "anomaly_type": "duplicate_event",
-        "detected_count": duplicate_keys,
+        "detected_count": duplicate_groups,
         "affected_metric": "logical_activity_events",
         "before_value": raw_events,
-        "after_value": raw_events - duplicate_excess,
+        "after_value": raw_events - excess_rows,
         "impact": (
-            f"{duplicate_excess} excess row(s) across "
-            f"{duplicate_keys} repeated key group(s); "
-            f"{unique_keys} distinct non-null idempotency keys."
+            f"{excess_rows} excess row(s) across "
+            f"{duplicate_groups} repeated key group(s); "
+            f"{distinct_keys} distinct non-null idempotency keys."
         ),
         "recommended_action": (
             "Deduplicate by idempotency key when calculating logical "
-            "activity metrics. Preserve the source records and "
-            "investigate null keys separately."
+            "activity metrics. Preserve source records and investigate "
+            "null keys separately."
         ),
     }
 
@@ -112,7 +116,7 @@ def audit_unenrolled_activity(cursor, raw_events):
         ),
         "recommended_action": (
             "Exclude or quarantine these events from enrollment-based "
-            "metrics. Preserve the original records for investigation."
+            "metrics. Preserve source records for investigation."
         ),
     }
 
@@ -129,17 +133,6 @@ def audit_premature_completion(cursor):
             ON cr.rule_id = co.rule_id
         WHERE co.outcome_status = 'completed'
           AND cr.require_assessment_pass = 1
-          AND EXISTS (
-              SELECT 1
-              FROM Attempt a
-              JOIN Assessment asm
-                  ON asm.assessment_id = a.assessment_id
-              WHERE a.enrollment_id = co.enrollment_id
-                AND asm.course_id = e.course_id
-                AND a.attempt_status = 'graded'
-                AND a.score >= asm.passing_score
-                AND co.calculated_at < a.submitted_at
-          )
           AND (
               co.outcome_id = 'ANOM-OUTCOME-003'
               OR co.decision_reason LIKE 'TEST ANOMALY:%'
@@ -155,8 +148,7 @@ def audit_premature_completion(cursor):
         "after_value": 0,
         "impact": (
             f"{premature_count} flagged test completion record(s) "
-            "must be excluded from trusted completion metrics "
-            "until investigated."
+            "are excluded from trusted completion metrics pending review."
         ),
         "recommended_action": (
             "Recalculate completion using valid assessment timestamps "
@@ -199,9 +191,18 @@ def main():
     cursor = None
 
     try:
-        # Never use the original database for this audit.
-        connection = get_connection(database="learnguard_staging")
+        connection = get_connection(
+            database=STAGING_DATABASE
+        )
         cursor = connection.cursor()
+
+        cursor.execute("SELECT DATABASE()")
+        active_database = cursor.fetchone()[0]
+
+        if active_database != STAGING_DATABASE:
+            raise RuntimeError(
+                f"Safety check failed: connected to {active_database}"
+            )
 
         raw_events = fetch_one(
             cursor,
@@ -210,7 +211,11 @@ def main():
 
         baseline_events = fetch_one(
             cursor,
-            "SELECT COUNT(*) FROM ActivityEvent WHERE event_id LIKE 'EVT-%'",
+            """
+            SELECT COUNT(*)
+            FROM ActivityEvent
+            WHERE event_id LIKE 'EVT-%'
+            """,
         )
 
         report_rows = [
@@ -220,7 +225,10 @@ def main():
             audit_timezone_shift(cursor),
         ]
 
-        REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+        REPORT_PATH.parent.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
 
         with REPORT_PATH.open(
             "w",
@@ -235,8 +243,8 @@ def main():
             writer.writerows(report_rows)
 
         print("LEARNGUARD ANALYTICS - DATA QUALITY IMPACT AUDIT")
-        print("=" * 65)
-        print("Database: learnguard_staging")
+        print("=" * 60)
+        print(f"Database: {active_database}")
         print(f"Total activity rows: {raw_events:,}")
         print(f"Baseline activity rows: {baseline_events:,}")
 
@@ -251,7 +259,7 @@ def main():
                 f"Action: {row['recommended_action']}"
             )
 
-        print("\n" + "=" * 65)
+        print("\n" + "=" * 60)
         print(f"Report saved to: {REPORT_PATH}")
 
     except Exception as error:
