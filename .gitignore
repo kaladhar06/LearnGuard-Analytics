@@ -6,3 +6,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 backups/
+# Large generated activity datasets
+data/generated_activity_preview.csv
+data/generated_activity_preview_backup.csv
