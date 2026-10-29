@@ -1,0 +1,362 @@
+[
+  {
+    "content_id": "EXE-CRS-000001",
+    "course_id": "CRS-000001",
+    "parent_content_id": "MOD-CRS-000001",
+    "title": "Exercise for CRS-000001",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000002",
+    "course_id": "CRS-000002",
+    "parent_content_id": "MOD-CRS-000002",
+    "title": "Exercise for CRS-000002",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000003",
+    "course_id": "CRS-000003",
+    "parent_content_id": "MOD-CRS-000003",
+    "title": "Exercise for CRS-000003",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000004",
+    "course_id": "CRS-000004",
+    "parent_content_id": "MOD-CRS-000004",
+    "title": "Exercise for CRS-000004",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000005",
+    "course_id": "CRS-000005",
+    "parent_content_id": "MOD-CRS-000005",
+    "title": "Exercise for CRS-000005",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000006",
+    "course_id": "CRS-000006",
+    "parent_content_id": "MOD-CRS-000006",
+    "title": "Exercise for CRS-000006",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000007",
+    "course_id": "CRS-000007",
+    "parent_content_id": "MOD-CRS-000007",
+    "title": "Exercise for CRS-000007",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000008",
+    "course_id": "CRS-000008",
+    "parent_content_id": "MOD-CRS-000008",
+    "title": "Exercise for CRS-000008",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000009",
+    "course_id": "CRS-000009",
+    "parent_content_id": "MOD-CRS-000009",
+    "title": "Exercise for CRS-000009",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "EXE-CRS-000010",
+    "course_id": "CRS-000010",
+    "parent_content_id": "MOD-CRS-000010",
+    "title": "Exercise for CRS-000010",
+    "content_type": "exercise",
+    "sequence_no": 4,
+    "duration_minutes": 15
+  },
+  {
+    "content_id": "MOD-CRS-000001",
+    "course_id": "CRS-000001",
+    "parent_content_id": null,
+    "title": "Module for CRS-000001",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000002",
+    "course_id": "CRS-000002",
+    "parent_content_id": null,
+    "title": "Module for CRS-000002",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000003",
+    "course_id": "CRS-000003",
+    "parent_content_id": null,
+    "title": "Module for CRS-000003",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000004",
+    "course_id": "CRS-000004",
+    "parent_content_id": null,
+    "title": "Module for CRS-000004",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000005",
+    "course_id": "CRS-000005",
+    "parent_content_id": null,
+    "title": "Module for CRS-000005",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000006",
+    "course_id": "CRS-000006",
+    "parent_content_id": null,
+    "title": "Module for CRS-000006",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000007",
+    "course_id": "CRS-000007",
+    "parent_content_id": null,
+    "title": "Module for CRS-000007",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000008",
+    "course_id": "CRS-000008",
+    "parent_content_id": null,
+    "title": "Module for CRS-000008",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000009",
+    "course_id": "CRS-000009",
+    "parent_content_id": null,
+    "title": "Module for CRS-000009",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "MOD-CRS-000010",
+    "course_id": "CRS-000010",
+    "parent_content_id": null,
+    "title": "Module for CRS-000010",
+    "content_type": "module",
+    "sequence_no": 1,
+    "duration_minutes": null
+  },
+  {
+    "content_id": "REA-CRS-000001",
+    "course_id": "CRS-000001",
+    "parent_content_id": "MOD-CRS-000001",
+    "title": "Reading for CRS-000001",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000002",
+    "course_id": "CRS-000002",
+    "parent_content_id": "MOD-CRS-000002",
+    "title": "Reading for CRS-000002",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000003",
+    "course_id": "CRS-000003",
+    "parent_content_id": "MOD-CRS-000003",
+    "title": "Reading for CRS-000003",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000004",
+    "course_id": "CRS-000004",
+    "parent_content_id": "MOD-CRS-000004",
+    "title": "Reading for CRS-000004",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000005",
+    "course_id": "CRS-000005",
+    "parent_content_id": "MOD-CRS-000005",
+    "title": "Reading for CRS-000005",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000006",
+    "course_id": "CRS-000006",
+    "parent_content_id": "MOD-CRS-000006",
+    "title": "Reading for CRS-000006",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000007",
+    "course_id": "CRS-000007",
+    "parent_content_id": "MOD-CRS-000007",
+    "title": "Reading for CRS-000007",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000008",
+    "course_id": "CRS-000008",
+    "parent_content_id": "MOD-CRS-000008",
+    "title": "Reading for CRS-000008",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000009",
+    "course_id": "CRS-000009",
+    "parent_content_id": "MOD-CRS-000009",
+    "title": "Reading for CRS-000009",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "REA-CRS-000010",
+    "course_id": "CRS-000010",
+    "parent_content_id": "MOD-CRS-000010",
+    "title": "Reading for CRS-000010",
+    "content_type": "reading",
+    "sequence_no": 3,
+    "duration_minutes": 8
+  },
+  {
+    "content_id": "VID-CRS-000001",
+    "course_id": "CRS-000001",
+    "parent_content_id": "MOD-CRS-000001",
+    "title": "Video for CRS-000001",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000002",
+    "course_id": "CRS-000002",
+    "parent_content_id": "MOD-CRS-000002",
+    "title": "Video for CRS-000002",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000003",
+    "course_id": "CRS-000003",
+    "parent_content_id": "MOD-CRS-000003",
+    "title": "Video for CRS-000003",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000004",
+    "course_id": "CRS-000004",
+    "parent_content_id": "MOD-CRS-000004",
+    "title": "Video for CRS-000004",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000005",
+    "course_id": "CRS-000005",
+    "parent_content_id": "MOD-CRS-000005",
+    "title": "Video for CRS-000005",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000006",
+    "course_id": "CRS-000006",
+    "parent_content_id": "MOD-CRS-000006",
+    "title": "Video for CRS-000006",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000007",
+    "course_id": "CRS-000007",
+    "parent_content_id": "MOD-CRS-000007",
+    "title": "Video for CRS-000007",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000008",
+    "course_id": "CRS-000008",
+    "parent_content_id": "MOD-CRS-000008",
+    "title": "Video for CRS-000008",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000009",
+    "course_id": "CRS-000009",
+    "parent_content_id": "MOD-CRS-000009",
+    "title": "Video for CRS-000009",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  },
+  {
+    "content_id": "VID-CRS-000010",
+    "course_id": "CRS-000010",
+    "parent_content_id": "MOD-CRS-000010",
+    "title": "Video for CRS-000010",
+    "content_type": "video",
+    "sequence_no": 2,
+    "duration_minutes": 10
+  }
+]

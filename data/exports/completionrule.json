@@ -1,0 +1,92 @@
+[
+  {
+    "rule_id": "RULE-000001",
+    "course_id": "CRS-000001",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000002",
+    "course_id": "CRS-000002",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000003",
+    "course_id": "CRS-000003",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000004",
+    "course_id": "CRS-000004",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000005",
+    "course_id": "CRS-000005",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000006",
+    "course_id": "CRS-000006",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000007",
+    "course_id": "CRS-000007",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000008",
+    "course_id": "CRS-000008",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000009",
+    "course_id": "CRS-000009",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  },
+  {
+    "rule_id": "RULE-000010",
+    "course_id": "CRS-000010",
+    "effective_from": "2026-01-01 00:00:00",
+    "effective_until": null,
+    "min_content_completion_pct": 80.0,
+    "require_assessment_pass": 1,
+    "rule_version": 1
+  }
+]

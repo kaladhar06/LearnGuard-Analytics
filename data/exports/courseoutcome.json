@@ -1,0 +1,3012 @@
+[
+  {
+    "outcome_id": "ANOM-OUTCOME-003",
+    "enrollment_id": "ENR-LRN-000002-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2025-04-23 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 1,
+    "outcome_status": "completed",
+    "decision_reason": "TEST ANOMALY: completion recorded before assessment pass"
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000001-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000001-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000002-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000002-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000002-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000002-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000003-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000003-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000003-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000003-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000003-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000003-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000003-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000003-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000004-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000004-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000005-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000005-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000005-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000005-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000005-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000005-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000006-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000006-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 1,
+    "outcome_status": "completed",
+    "decision_reason": "Required content threshold and assessment rule met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000006-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000006-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000006-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000006-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000007-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000007-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000007-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000007-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000007-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000007-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000007-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000007-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000008-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000008-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000009-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000009-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000011-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000011-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000011-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000011-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000011-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000011-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000011-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000011-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000012-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000012-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000012-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000012-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000012-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000012-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000012-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000012-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000012-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000012-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000013-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000013-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000013-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000013-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000013-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000013-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000013-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000013-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000014-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000014-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000014-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000014-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000015-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000015-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000015-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000015-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000015-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000015-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000016-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000016-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000016-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000016-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000016-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000016-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000016-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000016-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000016-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000016-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000016-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000016-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000017-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000017-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000017-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000017-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000018-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000018-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 1,
+    "outcome_status": "completed",
+    "decision_reason": "Required content threshold and assessment rule met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000018-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000018-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000019-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000019-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000019-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000019-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000019-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000019-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000020-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000020-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000020-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000020-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000021-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000021-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000021-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000021-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000021-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000021-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000021-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000021-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000022-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000022-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000022-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000022-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000022-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000022-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000022-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000022-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000023-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000023-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000023-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000023-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000023-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000023-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000025-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000025-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000026-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000026-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000026-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000026-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000026-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000026-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000026-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000026-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000027-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000027-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000027-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000027-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000027-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000027-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000028-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000028-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000029-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000029-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000029-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000029-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000029-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000029-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000030-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000030-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000031-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000031-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000031-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000031-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000031-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000031-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000032-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000032-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000032-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000032-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000032-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000032-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000032-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000032-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000033-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000033-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000033-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000033-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000033-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000033-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000033-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000033-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000034-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000034-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000034-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000034-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000034-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000034-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000035-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000035-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 1,
+    "outcome_status": "completed",
+    "decision_reason": "Required content threshold and assessment rule met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000035-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000035-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000035-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000035-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000035-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000035-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000035-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000035-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000036-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000036-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000036-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000036-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000037-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000037-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000037-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000037-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000037-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000037-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000038-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000038-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000038-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000038-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000039-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000039-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000039-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000039-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000039-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000039-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000040-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000040-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000040-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000040-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000040-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000040-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000041-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000041-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000041-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000041-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000041-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000041-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000041-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000041-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000042-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000042-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000042-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000042-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000042-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000042-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000043-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000043-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000043-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000043-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000044-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000044-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000044-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000044-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000044-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000044-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000045-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000045-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000045-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000045-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000045-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000045-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000045-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000045-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000045-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000045-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000046-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000046-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000046-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000046-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000046-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000046-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000047-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000047-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000047-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000047-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000047-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000047-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000048-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000048-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000048-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000048-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000048-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000048-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000048-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000048-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000048-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000048-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000049-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000049-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000050-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000050-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000050-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000050-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000051-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000051-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000051-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000051-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000051-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000051-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000052-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000052-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000052-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000052-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000052-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000052-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000053-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000053-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000053-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000053-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000053-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000053-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000054-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000054-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000054-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000054-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000054-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000054-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000055-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000055-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000055-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000055-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000055-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000055-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000056-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000056-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000056-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000056-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000056-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000056-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000057-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000057-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000057-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000057-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000057-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000057-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000057-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000057-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000058-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000058-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000058-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000058-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000058-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000058-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000060-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000060-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000060-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000060-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000060-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000060-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000061-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000061-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000061-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000061-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000062-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000062-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000062-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000062-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000062-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000062-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000062-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000062-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000062-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000062-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000063-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000063-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000063-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000063-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000063-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000063-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000063-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000063-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000064-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000064-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000064-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000064-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000064-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000064-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000064-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000064-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000064-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000064-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000065-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000065-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000065-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000065-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000065-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000065-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000066-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000066-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000067-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000067-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000067-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000067-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000067-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000067-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000068-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000068-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000068-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000068-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000068-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000068-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000068-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000068-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000069-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000069-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000070-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000070-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000070-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000070-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000070-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000070-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000071-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000071-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000071-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000071-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000072-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000072-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000072-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000072-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000072-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000072-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000072-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000072-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000073-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000073-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000073-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000073-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000074-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000074-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000074-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000074-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000074-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000074-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000074-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000074-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000074-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000074-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000075-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000075-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 1,
+    "outcome_status": "completed",
+    "decision_reason": "Required content threshold and assessment rule met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000076-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000076-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000076-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000076-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000077-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000077-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000077-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000077-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000077-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000077-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000078-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000078-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000078-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000078-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000078-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000078-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000079-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000079-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000079-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000079-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000079-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000079-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000079-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000079-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000080-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000080-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000080-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000080-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000080-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000080-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000081-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000081-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000081-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000081-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000081-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000081-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000081-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000081-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000082-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000082-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000082-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000082-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000082-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000082-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000083-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000083-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000084-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000084-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000084-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000084-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000084-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000084-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000084-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000084-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000085-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000085-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "not_completed",
+    "decision_reason": "No qualifying content or assessment activity."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000085-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000085-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000085-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000085-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000085-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000085-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000086-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000086-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000086-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000086-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000086-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000086-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 100.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000086-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000086-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000087-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000087-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000087-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000087-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000088-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000088-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000088-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000088-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000088-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000088-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000089-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000089-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000089-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000089-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000089-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000089-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000089-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000089-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000090-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000090-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000090-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000090-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000090-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000090-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000090-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000090-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000090-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000090-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000091-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000091-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000091-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000091-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000091-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000091-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000092-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000092-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000092-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000092-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000093-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000093-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000093-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000093-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000093-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000093-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000093-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000093-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000093-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000093-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000094-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000094-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000094-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000094-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000094-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000094-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000094-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000094-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000094-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000094-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000095-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000095-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000095-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000095-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000096-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000096-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000096-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000096-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000096-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000096-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000097-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000097-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000097-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000097-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000097-CRS-000005-V1",
+    "enrollment_id": "ENR-LRN-000097-CRS-000005",
+    "rule_id": "RULE-000005",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000097-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000097-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000098-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000098-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000098-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000098-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000098-CRS-000008-V1",
+    "enrollment_id": "ENR-LRN-000098-CRS-000008",
+    "rule_id": "RULE-000008",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000099-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000099-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000099-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000099-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000099-CRS-000004-V1",
+    "enrollment_id": "ENR-LRN-000099-CRS-000004",
+    "rule_id": "RULE-000004",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000099-CRS-000006-V1",
+    "enrollment_id": "ENR-LRN-000099-CRS-000006",
+    "rule_id": "RULE-000006",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000099-CRS-000007-V1",
+    "enrollment_id": "ENR-LRN-000099-CRS-000007",
+    "rule_id": "RULE-000007",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000099-CRS-000009-V1",
+    "enrollment_id": "ENR-LRN-000099-CRS-000009",
+    "rule_id": "RULE-000009",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000099-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000099-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000100-CRS-000001-V1",
+    "enrollment_id": "ENR-LRN-000100-CRS-000001",
+    "rule_id": "RULE-000001",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000100-CRS-000002-V1",
+    "enrollment_id": "ENR-LRN-000100-CRS-000002",
+    "rule_id": "RULE-000002",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 33.33,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000100-CRS-000003-V1",
+    "enrollment_id": "ENR-LRN-000100-CRS-000003",
+    "rule_id": "RULE-000003",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 66.67,
+    "assessment_passed": 0,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  },
+  {
+    "outcome_id": "OUT-ENR-LRN-000100-CRS-000010-V1",
+    "enrollment_id": "ENR-LRN-000100-CRS-000010",
+    "rule_id": "RULE-000010",
+    "calculated_at": "2026-10-28 00:00:00",
+    "content_completion_pct": 0.0,
+    "assessment_passed": 1,
+    "outcome_status": "in_progress",
+    "decision_reason": "Activity or assessment exists; completion criteria are not all met."
+  }
+]

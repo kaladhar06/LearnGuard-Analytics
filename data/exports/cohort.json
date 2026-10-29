@@ -1,0 +1,65 @@
+[
+  {
+    "cohort_id": "COH-2026-01",
+    "cohort_name": "Enrollment Cohort January 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-31"
+  },
+  {
+    "cohort_id": "COH-2026-02",
+    "cohort_name": "Enrollment Cohort February 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-02-01",
+    "end_date": "2026-02-28"
+  },
+  {
+    "cohort_id": "COH-2026-03",
+    "cohort_name": "Enrollment Cohort March 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-31"
+  },
+  {
+    "cohort_id": "COH-2026-04",
+    "cohort_name": "Enrollment Cohort April 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-30"
+  },
+  {
+    "cohort_id": "COH-2026-05",
+    "cohort_name": "Enrollment Cohort May 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-05-01",
+    "end_date": "2026-05-31"
+  },
+  {
+    "cohort_id": "COH-2026-06",
+    "cohort_name": "Enrollment Cohort June 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "cohort_id": "COH-2026-07",
+    "cohort_name": "Enrollment Cohort July 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31"
+  },
+  {
+    "cohort_id": "COH-2026-08",
+    "cohort_name": "Enrollment Cohort August 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31"
+  },
+  {
+    "cohort_id": "COH-2026-09",
+    "cohort_name": "Enrollment Cohort September 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-30"
+  }
+]

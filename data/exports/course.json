@@ -1,0 +1,82 @@
+[
+  {
+    "course_id": "CRS-000001",
+    "course_name": "Python Course 001",
+    "category": "Python",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000002",
+    "course_name": "Data Analytics Course 002",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000003",
+    "course_name": "Machine Learning Course 003",
+    "category": "Machine Learning",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000004",
+    "course_name": "Web Development Course 004",
+    "category": "Web Development",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000005",
+    "course_name": "Database Management Course 005",
+    "category": "Database Management",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000006",
+    "course_name": "Python Course 006",
+    "category": "Python",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000007",
+    "course_name": "Data Analytics Course 007",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000008",
+    "course_name": "Machine Learning Course 008",
+    "category": "Machine Learning",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000009",
+    "course_name": "Web Development Course 009",
+    "category": "Web Development",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000010",
+    "course_name": "Database Management Course 010",
+    "category": "Database Management",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  }
+]

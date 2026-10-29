@@ -1,0 +1,11 @@
+﻿course_id,course_name,category,difficulty,course_status,created_at
+CRS-000001,Python Course 001,Python,beginner,published,2026-01-01 00:00:00
+CRS-000002,Data Analytics Course 002,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000003,Machine Learning Course 003,Machine Learning,advanced,published,2026-01-01 00:00:00
+CRS-000004,Web Development Course 004,Web Development,beginner,published,2026-01-01 00:00:00
+CRS-000005,Database Management Course 005,Database Management,intermediate,published,2026-01-01 00:00:00
+CRS-000006,Python Course 006,Python,advanced,published,2026-01-01 00:00:00
+CRS-000007,Data Analytics Course 007,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000008,Machine Learning Course 008,Machine Learning,intermediate,published,2026-01-01 00:00:00
+CRS-000009,Web Development Course 009,Web Development,advanced,published,2026-01-01 00:00:00
+CRS-000010,Database Management Course 010,Database Management,beginner,published,2026-01-01 00:00:00

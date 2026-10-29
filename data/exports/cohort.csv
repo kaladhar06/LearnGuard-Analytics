@@ -1,0 +1,10 @@
+﻿cohort_id,cohort_name,cohort_type,start_date,end_date
+COH-2026-01,Enrollment Cohort January 2026,enrollment_month,2026-01-01,2026-01-31
+COH-2026-02,Enrollment Cohort February 2026,enrollment_month,2026-02-01,2026-02-28
+COH-2026-03,Enrollment Cohort March 2026,enrollment_month,2026-03-01,2026-03-31
+COH-2026-04,Enrollment Cohort April 2026,enrollment_month,2026-04-01,2026-04-30
+COH-2026-05,Enrollment Cohort May 2026,enrollment_month,2026-05-01,2026-05-31
+COH-2026-06,Enrollment Cohort June 2026,enrollment_month,2026-06-01,2026-06-30
+COH-2026-07,Enrollment Cohort July 2026,enrollment_month,2026-07-01,2026-07-31
+COH-2026-08,Enrollment Cohort August 2026,enrollment_month,2026-08-01,2026-08-31
+COH-2026-09,Enrollment Cohort September 2026,enrollment_month,2026-09-01,2026-09-30

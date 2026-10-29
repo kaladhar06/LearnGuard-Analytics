@@ -1,0 +1,2402 @@
+[
+  {
+    "enrollment_id": "ENR-LRN-000001-CRS-000009",
+    "learner_id": "LRN-000001",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-02-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000002-CRS-000005",
+    "learner_id": "LRN-000002",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-08-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000002-CRS-000006",
+    "learner_id": "LRN-000002",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-04-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000003-CRS-000004",
+    "learner_id": "LRN-000003",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-07-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000003-CRS-000006",
+    "learner_id": "LRN-000003",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-04-15 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000003-CRS-000007",
+    "learner_id": "LRN-000003",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000003-CRS-000010",
+    "learner_id": "LRN-000003",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-09-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000004-CRS-000007",
+    "learner_id": "LRN-000004",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-05-19 14:45:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000005-CRS-000001",
+    "learner_id": "LRN-000005",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-02-25 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000005-CRS-000008",
+    "learner_id": "LRN-000005",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-05-11 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000005-CRS-000009",
+    "learner_id": "LRN-000005",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-09-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000006-CRS-000001",
+    "learner_id": "LRN-000006",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-09-13 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000006-CRS-000007",
+    "learner_id": "LRN-000006",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-12 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000006-CRS-000008",
+    "learner_id": "LRN-000006",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-06-11 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000007-CRS-000002",
+    "learner_id": "LRN-000007",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-03-23 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000007-CRS-000006",
+    "learner_id": "LRN-000007",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-08-12 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000007-CRS-000007",
+    "learner_id": "LRN-000007",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-06-24 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000007-CRS-000010",
+    "learner_id": "LRN-000007",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-02-13 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000008-CRS-000002",
+    "learner_id": "LRN-000008",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-03-23 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000009-CRS-000002",
+    "learner_id": "LRN-000009",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-02-01 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000011-CRS-000002",
+    "learner_id": "LRN-000011",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-06-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000011-CRS-000003",
+    "learner_id": "LRN-000011",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-02-13 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000011-CRS-000004",
+    "learner_id": "LRN-000011",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-06-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000011-CRS-000005",
+    "learner_id": "LRN-000011",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-07-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000012-CRS-000001",
+    "learner_id": "LRN-000012",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-07-01 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000012-CRS-000002",
+    "learner_id": "LRN-000012",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-03-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000012-CRS-000004",
+    "learner_id": "LRN-000012",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-07-26 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000012-CRS-000006",
+    "learner_id": "LRN-000012",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-01-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000012-CRS-000010",
+    "learner_id": "LRN-000012",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-03-16 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000013-CRS-000001",
+    "learner_id": "LRN-000013",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-03-23 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000013-CRS-000007",
+    "learner_id": "LRN-000013",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000013-CRS-000008",
+    "learner_id": "LRN-000013",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-01-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000013-CRS-000009",
+    "learner_id": "LRN-000013",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-06-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000014-CRS-000004",
+    "learner_id": "LRN-000014",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-01-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000014-CRS-000006",
+    "learner_id": "LRN-000014",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-02-24 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000015-CRS-000003",
+    "learner_id": "LRN-000015",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-01-01 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000015-CRS-000006",
+    "learner_id": "LRN-000015",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-01-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000015-CRS-000010",
+    "learner_id": "LRN-000015",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-04-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000016-CRS-000003",
+    "learner_id": "LRN-000016",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-07-31 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000016-CRS-000004",
+    "learner_id": "LRN-000016",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-06-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000016-CRS-000005",
+    "learner_id": "LRN-000016",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-06-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000016-CRS-000006",
+    "learner_id": "LRN-000016",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-03-05 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000016-CRS-000007",
+    "learner_id": "LRN-000016",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-09-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000016-CRS-000010",
+    "learner_id": "LRN-000016",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-03-24 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000017-CRS-000005",
+    "learner_id": "LRN-000017",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-08-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000017-CRS-000007",
+    "learner_id": "LRN-000017",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-09-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000018-CRS-000001",
+    "learner_id": "LRN-000018",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-05-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000018-CRS-000008",
+    "learner_id": "LRN-000018",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-07-12 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000019-CRS-000005",
+    "learner_id": "LRN-000019",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-06-10 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000019-CRS-000008",
+    "learner_id": "LRN-000019",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-02-16 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000019-CRS-000010",
+    "learner_id": "LRN-000019",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-08-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000020-CRS-000004",
+    "learner_id": "LRN-000020",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-03-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000020-CRS-000007",
+    "learner_id": "LRN-000020",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-03-13 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000021-CRS-000001",
+    "learner_id": "LRN-000021",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-06-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000021-CRS-000002",
+    "learner_id": "LRN-000021",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-08-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000021-CRS-000008",
+    "learner_id": "LRN-000021",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-04-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000021-CRS-000010",
+    "learner_id": "LRN-000021",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-07-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000022-CRS-000002",
+    "learner_id": "LRN-000022",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-09-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000022-CRS-000004",
+    "learner_id": "LRN-000022",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-09-10 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000022-CRS-000007",
+    "learner_id": "LRN-000022",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-09-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000022-CRS-000010",
+    "learner_id": "LRN-000022",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-09-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000023-CRS-000002",
+    "learner_id": "LRN-000023",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-03-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000023-CRS-000004",
+    "learner_id": "LRN-000023",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-09-25 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000023-CRS-000006",
+    "learner_id": "LRN-000023",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-02-26 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000025-CRS-000010",
+    "learner_id": "LRN-000025",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-04-05 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000026-CRS-000001",
+    "learner_id": "LRN-000026",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-03-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000026-CRS-000007",
+    "learner_id": "LRN-000026",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-05-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000026-CRS-000008",
+    "learner_id": "LRN-000026",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-03-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000026-CRS-000009",
+    "learner_id": "LRN-000026",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-02-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000027-CRS-000004",
+    "learner_id": "LRN-000027",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-01-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000027-CRS-000005",
+    "learner_id": "LRN-000027",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-05-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000027-CRS-000009",
+    "learner_id": "LRN-000027",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-08-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000028-CRS-000010",
+    "learner_id": "LRN-000028",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-06-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000029-CRS-000003",
+    "learner_id": "LRN-000029",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-02-06 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000029-CRS-000007",
+    "learner_id": "LRN-000029",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-09-05 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000029-CRS-000008",
+    "learner_id": "LRN-000029",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-08-29 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000030-CRS-000010",
+    "learner_id": "LRN-000030",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-05-30 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000031-CRS-000004",
+    "learner_id": "LRN-000031",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-01-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000031-CRS-000006",
+    "learner_id": "LRN-000031",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-07-16 11:45:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000031-CRS-000008",
+    "learner_id": "LRN-000031",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-07-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000032-CRS-000001",
+    "learner_id": "LRN-000032",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-09-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000032-CRS-000002",
+    "learner_id": "LRN-000032",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-06-10 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000032-CRS-000004",
+    "learner_id": "LRN-000032",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-08-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000032-CRS-000007",
+    "learner_id": "LRN-000032",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-29 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000033-CRS-000001",
+    "learner_id": "LRN-000033",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-07-01 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000033-CRS-000002",
+    "learner_id": "LRN-000033",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-09-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000033-CRS-000003",
+    "learner_id": "LRN-000033",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-01-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000033-CRS-000008",
+    "learner_id": "LRN-000033",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-09-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000034-CRS-000006",
+    "learner_id": "LRN-000034",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-05-26 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000034-CRS-000007",
+    "learner_id": "LRN-000034",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-06-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000034-CRS-000009",
+    "learner_id": "LRN-000034",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-04-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000035-CRS-000003",
+    "learner_id": "LRN-000035",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-09-01 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000035-CRS-000005",
+    "learner_id": "LRN-000035",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-07-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000035-CRS-000008",
+    "learner_id": "LRN-000035",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-05-06 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000035-CRS-000009",
+    "learner_id": "LRN-000035",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-09-23 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000035-CRS-000010",
+    "learner_id": "LRN-000035",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-05-11 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000036-CRS-000006",
+    "learner_id": "LRN-000036",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-07-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000036-CRS-000008",
+    "learner_id": "LRN-000036",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-04-10 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000037-CRS-000005",
+    "learner_id": "LRN-000037",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-02-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000037-CRS-000007",
+    "learner_id": "LRN-000037",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-03-31 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000037-CRS-000009",
+    "learner_id": "LRN-000037",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-07-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000038-CRS-000008",
+    "learner_id": "LRN-000038",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-08-30 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000038-CRS-000009",
+    "learner_id": "LRN-000038",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-05-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000039-CRS-000002",
+    "learner_id": "LRN-000039",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-06-29 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000039-CRS-000005",
+    "learner_id": "LRN-000039",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-03-30 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000039-CRS-000010",
+    "learner_id": "LRN-000039",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-07-01 14:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000040-CRS-000001",
+    "learner_id": "LRN-000040",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-06-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000040-CRS-000002",
+    "learner_id": "LRN-000040",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-04-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000040-CRS-000006",
+    "learner_id": "LRN-000040",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-04-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000041-CRS-000001",
+    "learner_id": "LRN-000041",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-03-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000041-CRS-000004",
+    "learner_id": "LRN-000041",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-08-29 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000041-CRS-000006",
+    "learner_id": "LRN-000041",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-08-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000041-CRS-000007",
+    "learner_id": "LRN-000041",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-01-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000042-CRS-000001",
+    "learner_id": "LRN-000042",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-02-13 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000042-CRS-000002",
+    "learner_id": "LRN-000042",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-04-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000042-CRS-000009",
+    "learner_id": "LRN-000042",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-02-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000043-CRS-000002",
+    "learner_id": "LRN-000043",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-05-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000043-CRS-000010",
+    "learner_id": "LRN-000043",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-07-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000044-CRS-000005",
+    "learner_id": "LRN-000044",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-06-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000044-CRS-000007",
+    "learner_id": "LRN-000044",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-03-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000044-CRS-000010",
+    "learner_id": "LRN-000044",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-06-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000045-CRS-000001",
+    "learner_id": "LRN-000045",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-01-29 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000045-CRS-000002",
+    "learner_id": "LRN-000045",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-05-10 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000045-CRS-000003",
+    "learner_id": "LRN-000045",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-09-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000045-CRS-000008",
+    "learner_id": "LRN-000045",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-02-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000045-CRS-000010",
+    "learner_id": "LRN-000045",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-04-26 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000046-CRS-000001",
+    "learner_id": "LRN-000046",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-03-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000046-CRS-000002",
+    "learner_id": "LRN-000046",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-04-06 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000046-CRS-000006",
+    "learner_id": "LRN-000046",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-03-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000047-CRS-000007",
+    "learner_id": "LRN-000047",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-30 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000047-CRS-000008",
+    "learner_id": "LRN-000047",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-02-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000047-CRS-000010",
+    "learner_id": "LRN-000047",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-03-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000048-CRS-000003",
+    "learner_id": "LRN-000048",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-03-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000048-CRS-000006",
+    "learner_id": "LRN-000048",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-09-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000048-CRS-000007",
+    "learner_id": "LRN-000048",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-06-15 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000048-CRS-000008",
+    "learner_id": "LRN-000048",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-02-16 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000048-CRS-000009",
+    "learner_id": "LRN-000048",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-03-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000049-CRS-000007",
+    "learner_id": "LRN-000049",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-02-13 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000050-CRS-000007",
+    "learner_id": "LRN-000050",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-01-29 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000050-CRS-000008",
+    "learner_id": "LRN-000050",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-08-01 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000051-CRS-000001",
+    "learner_id": "LRN-000051",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-01-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000051-CRS-000007",
+    "learner_id": "LRN-000051",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000051-CRS-000008",
+    "learner_id": "LRN-000051",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-03-11 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000052-CRS-000001",
+    "learner_id": "LRN-000052",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-05-13 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000052-CRS-000008",
+    "learner_id": "LRN-000052",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-07-20 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000052-CRS-000009",
+    "learner_id": "LRN-000052",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-08-11 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000053-CRS-000002",
+    "learner_id": "LRN-000053",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-08-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000053-CRS-000008",
+    "learner_id": "LRN-000053",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-07-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000053-CRS-000010",
+    "learner_id": "LRN-000053",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-02-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000054-CRS-000001",
+    "learner_id": "LRN-000054",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-09-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000054-CRS-000005",
+    "learner_id": "LRN-000054",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-09-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000054-CRS-000007",
+    "learner_id": "LRN-000054",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000055-CRS-000003",
+    "learner_id": "LRN-000055",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-02-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000055-CRS-000005",
+    "learner_id": "LRN-000055",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-05-15 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000055-CRS-000010",
+    "learner_id": "LRN-000055",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-01-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000056-CRS-000006",
+    "learner_id": "LRN-000056",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-04-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000056-CRS-000009",
+    "learner_id": "LRN-000056",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-04-05 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000056-CRS-000010",
+    "learner_id": "LRN-000056",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-04-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000057-CRS-000003",
+    "learner_id": "LRN-000057",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-01-29 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000057-CRS-000006",
+    "learner_id": "LRN-000057",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-02-15 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000057-CRS-000007",
+    "learner_id": "LRN-000057",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-02-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000057-CRS-000009",
+    "learner_id": "LRN-000057",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-01-13 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000058-CRS-000006",
+    "learner_id": "LRN-000058",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-09-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000058-CRS-000009",
+    "learner_id": "LRN-000058",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-07-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000058-CRS-000010",
+    "learner_id": "LRN-000058",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-09-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000060-CRS-000002",
+    "learner_id": "LRN-000060",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-03-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000060-CRS-000006",
+    "learner_id": "LRN-000060",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-03-10 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000060-CRS-000009",
+    "learner_id": "LRN-000060",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-03-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000061-CRS-000005",
+    "learner_id": "LRN-000061",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-09-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000061-CRS-000009",
+    "learner_id": "LRN-000061",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-05-20 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000062-CRS-000001",
+    "learner_id": "LRN-000062",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-05-31 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000062-CRS-000002",
+    "learner_id": "LRN-000062",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-05-30 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000062-CRS-000004",
+    "learner_id": "LRN-000062",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-07-01 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000062-CRS-000005",
+    "learner_id": "LRN-000062",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-07-10 16:15:00",
+    "enrollment_status": "completed",
+    "cohort_label": "COHORT-2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000062-CRS-000009",
+    "learner_id": "LRN-000062",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-08-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000063-CRS-000005",
+    "learner_id": "LRN-000063",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-09-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000063-CRS-000007",
+    "learner_id": "LRN-000063",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-02-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000063-CRS-000008",
+    "learner_id": "LRN-000063",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-04-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000063-CRS-000009",
+    "learner_id": "LRN-000063",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-04-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000064-CRS-000004",
+    "learner_id": "LRN-000064",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-04-16 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000064-CRS-000005",
+    "learner_id": "LRN-000064",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-09-24 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000064-CRS-000007",
+    "learner_id": "LRN-000064",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-05-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000064-CRS-000009",
+    "learner_id": "LRN-000064",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-05-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000064-CRS-000010",
+    "learner_id": "LRN-000064",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-04-12 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000065-CRS-000001",
+    "learner_id": "LRN-000065",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-03-10 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000065-CRS-000003",
+    "learner_id": "LRN-000065",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-01-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000065-CRS-000008",
+    "learner_id": "LRN-000065",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-02-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000066-CRS-000010",
+    "learner_id": "LRN-000066",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-05-31 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000067-CRS-000003",
+    "learner_id": "LRN-000067",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-08-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000067-CRS-000006",
+    "learner_id": "LRN-000067",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-01-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000067-CRS-000008",
+    "learner_id": "LRN-000067",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-06-01 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000068-CRS-000001",
+    "learner_id": "LRN-000068",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-04-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000068-CRS-000004",
+    "learner_id": "LRN-000068",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-06-25 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000068-CRS-000008",
+    "learner_id": "LRN-000068",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-05-23 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000068-CRS-000009",
+    "learner_id": "LRN-000068",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-06-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000069-CRS-000002",
+    "learner_id": "LRN-000069",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-06-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000070-CRS-000003",
+    "learner_id": "LRN-000070",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-07-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000070-CRS-000004",
+    "learner_id": "LRN-000070",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-09-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000070-CRS-000009",
+    "learner_id": "LRN-000070",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-01-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000071-CRS-000003",
+    "learner_id": "LRN-000071",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-03-30 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000071-CRS-000008",
+    "learner_id": "LRN-000071",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-05-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000072-CRS-000001",
+    "learner_id": "LRN-000072",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-01-06 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000072-CRS-000006",
+    "learner_id": "LRN-000072",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-04-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000072-CRS-000007",
+    "learner_id": "LRN-000072",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000072-CRS-000010",
+    "learner_id": "LRN-000072",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-04-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000073-CRS-000002",
+    "learner_id": "LRN-000073",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-03-06 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000073-CRS-000010",
+    "learner_id": "LRN-000073",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-09-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000074-CRS-000003",
+    "learner_id": "LRN-000074",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-05-17 18:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000074-CRS-000004",
+    "learner_id": "LRN-000074",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-03-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000074-CRS-000005",
+    "learner_id": "LRN-000074",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-08-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000074-CRS-000007",
+    "learner_id": "LRN-000074",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-05-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000074-CRS-000010",
+    "learner_id": "LRN-000074",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-06-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000075-CRS-000006",
+    "learner_id": "LRN-000075",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-07-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000076-CRS-000001",
+    "learner_id": "LRN-000076",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-03-20 09:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000076-CRS-000004",
+    "learner_id": "LRN-000076",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-07-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000077-CRS-000003",
+    "learner_id": "LRN-000077",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-08-25 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000077-CRS-000005",
+    "learner_id": "LRN-000077",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-08-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000077-CRS-000008",
+    "learner_id": "LRN-000077",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-01-20 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000078-CRS-000008",
+    "learner_id": "LRN-000078",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-03-17 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000078-CRS-000009",
+    "learner_id": "LRN-000078",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-06-09 18:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000078-CRS-000010",
+    "learner_id": "LRN-000078",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-01-20 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000079-CRS-000001",
+    "learner_id": "LRN-000079",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-07-30 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000079-CRS-000002",
+    "learner_id": "LRN-000079",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-08-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000079-CRS-000006",
+    "learner_id": "LRN-000079",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-08-31 20:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000079-CRS-000009",
+    "learner_id": "LRN-000079",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-02-16 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000080-CRS-000004",
+    "learner_id": "LRN-000080",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-04-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000080-CRS-000006",
+    "learner_id": "LRN-000080",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-01-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000080-CRS-000010",
+    "learner_id": "LRN-000080",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-07-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000081-CRS-000001",
+    "learner_id": "LRN-000081",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-09-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000081-CRS-000003",
+    "learner_id": "LRN-000081",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-08-22 15:00:00",
+    "enrollment_status": "withdrawn",
+    "cohort_label": "COHORT-2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000081-CRS-000007",
+    "learner_id": "LRN-000081",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-01-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000081-CRS-000010",
+    "learner_id": "LRN-000081",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-06-28 15:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000082-CRS-000002",
+    "learner_id": "LRN-000082",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-04-22 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000082-CRS-000004",
+    "learner_id": "LRN-000082",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-03-21 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000082-CRS-000009",
+    "learner_id": "LRN-000082",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-03-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000083-CRS-000003",
+    "learner_id": "LRN-000083",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-03-24 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000084-CRS-000001",
+    "learner_id": "LRN-000084",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-08-07 20:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000084-CRS-000006",
+    "learner_id": "LRN-000084",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-09-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000084-CRS-000007",
+    "learner_id": "LRN-000084",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-09-06 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000084-CRS-000008",
+    "learner_id": "LRN-000084",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-09-01 10:30:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000085-CRS-000003",
+    "learner_id": "LRN-000085",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-05-26 15:30:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000085-CRS-000004",
+    "learner_id": "LRN-000085",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-03-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000085-CRS-000008",
+    "learner_id": "LRN-000085",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-03-12 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000085-CRS-000009",
+    "learner_id": "LRN-000085",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-01-29 11:45:00",
+    "enrollment_status": "withdrawn",
+    "cohort_label": "COHORT-2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000086-CRS-000001",
+    "learner_id": "LRN-000086",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-08-24 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000086-CRS-000004",
+    "learner_id": "LRN-000086",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-02-06 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000086-CRS-000005",
+    "learner_id": "LRN-000086",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-06-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000086-CRS-000007",
+    "learner_id": "LRN-000086",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-04-19 17:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000087-CRS-000005",
+    "learner_id": "LRN-000087",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-06-11 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000087-CRS-000010",
+    "learner_id": "LRN-000087",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-08-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000088-CRS-000007",
+    "learner_id": "LRN-000088",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-06-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000088-CRS-000008",
+    "learner_id": "LRN-000088",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-02-18 19:30:00",
+    "enrollment_status": "completed",
+    "cohort_label": "COHORT-2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000088-CRS-000009",
+    "learner_id": "LRN-000088",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-03-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000089-CRS-000003",
+    "learner_id": "LRN-000089",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-09-16 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000089-CRS-000004",
+    "learner_id": "LRN-000089",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-04-19 14:30:00",
+    "enrollment_status": "completed",
+    "cohort_label": "COHORT-2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000089-CRS-000007",
+    "learner_id": "LRN-000089",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-06-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000089-CRS-000008",
+    "learner_id": "LRN-000089",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-06-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000090-CRS-000001",
+    "learner_id": "LRN-000090",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-01-20 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000090-CRS-000003",
+    "learner_id": "LRN-000090",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-02-02 11:30:00",
+    "enrollment_status": "completed",
+    "cohort_label": "COHORT-2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000090-CRS-000005",
+    "learner_id": "LRN-000090",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-04-26 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000090-CRS-000007",
+    "learner_id": "LRN-000090",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-04-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000090-CRS-000008",
+    "learner_id": "LRN-000090",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-05-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000091-CRS-000004",
+    "learner_id": "LRN-000091",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-03-24 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000091-CRS-000005",
+    "learner_id": "LRN-000091",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-09-03 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000091-CRS-000009",
+    "learner_id": "LRN-000091",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-06-27 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000092-CRS-000007",
+    "learner_id": "LRN-000092",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-06-22 11:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000092-CRS-000009",
+    "learner_id": "LRN-000092",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-06-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000093-CRS-000001",
+    "learner_id": "LRN-000093",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-09-25 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000093-CRS-000003",
+    "learner_id": "LRN-000093",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-07-10 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000093-CRS-000004",
+    "learner_id": "LRN-000093",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-08-24 16:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000093-CRS-000007",
+    "learner_id": "LRN-000093",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-08-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000093-CRS-000008",
+    "learner_id": "LRN-000093",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-01-12 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000094-CRS-000002",
+    "learner_id": "LRN-000094",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-03-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000094-CRS-000004",
+    "learner_id": "LRN-000094",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-06-22 19:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-06"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000094-CRS-000005",
+    "learner_id": "LRN-000094",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-03-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000094-CRS-000006",
+    "learner_id": "LRN-000094",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-05-22 14:45:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000094-CRS-000009",
+    "learner_id": "LRN-000094",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-08-08 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000095-CRS-000007",
+    "learner_id": "LRN-000095",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-01-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000095-CRS-000009",
+    "learner_id": "LRN-000095",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-07-22 14:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000096-CRS-000002",
+    "learner_id": "LRN-000096",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-08-26 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000096-CRS-000003",
+    "learner_id": "LRN-000096",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-04-16 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000096-CRS-000009",
+    "learner_id": "LRN-000096",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-08-24 10:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000097-CRS-000002",
+    "learner_id": "LRN-000097",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-05-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000097-CRS-000003",
+    "learner_id": "LRN-000097",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-02-07 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000097-CRS-000005",
+    "learner_id": "LRN-000097",
+    "course_id": "CRS-000005",
+    "enrolled_at": "2026-02-18 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000097-CRS-000007",
+    "learner_id": "LRN-000097",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-03-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000098-CRS-000001",
+    "learner_id": "LRN-000098",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-02-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-02"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000098-CRS-000002",
+    "learner_id": "LRN-000098",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-09-06 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000098-CRS-000008",
+    "learner_id": "LRN-000098",
+    "course_id": "CRS-000008",
+    "enrolled_at": "2026-09-02 10:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-09"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000099-CRS-000001",
+    "learner_id": "LRN-000099",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-04-28 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000099-CRS-000003",
+    "learner_id": "LRN-000099",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-03-26 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000099-CRS-000004",
+    "learner_id": "LRN-000099",
+    "course_id": "CRS-000004",
+    "enrolled_at": "2026-01-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-01"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000099-CRS-000006",
+    "learner_id": "LRN-000099",
+    "course_id": "CRS-000006",
+    "enrolled_at": "2026-04-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000099-CRS-000007",
+    "learner_id": "LRN-000099",
+    "course_id": "CRS-000007",
+    "enrolled_at": "2026-07-09 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000099-CRS-000009",
+    "learner_id": "LRN-000099",
+    "course_id": "CRS-000009",
+    "enrolled_at": "2026-05-14 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-05"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000099-CRS-000010",
+    "learner_id": "LRN-000099",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-07-02 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-07"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000100-CRS-000001",
+    "learner_id": "LRN-000100",
+    "course_id": "CRS-000001",
+    "enrolled_at": "2026-03-12 14:15:00",
+    "enrollment_status": "active",
+    "cohort_label": "COHORT-2026-03"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000100-CRS-000002",
+    "learner_id": "LRN-000100",
+    "course_id": "CRS-000002",
+    "enrolled_at": "2026-08-04 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000100-CRS-000003",
+    "learner_id": "LRN-000100",
+    "course_id": "CRS-000003",
+    "enrolled_at": "2026-08-19 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-08"
+  },
+  {
+    "enrollment_id": "ENR-LRN-000100-CRS-000010",
+    "learner_id": "LRN-000100",
+    "course_id": "CRS-000010",
+    "enrolled_at": "2026-04-16 00:00:00",
+    "enrollment_status": "active",
+    "cohort_label": "2026-04"
+  }
+]

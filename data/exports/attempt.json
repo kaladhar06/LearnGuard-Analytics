@@ -1,0 +1,2702 @@
+[
+  {
+    "attempt_id": "ATT-ENR-LRN-000001-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000001-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-17 00:00:00",
+    "score": 53.39,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000002-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000002-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-08 00:00:00",
+    "score": 49.98,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000002-CRS-000006-02",
+    "enrollment_id": "ENR-LRN-000002-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-23 00:00:00",
+    "score": 81.39,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000003-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000003-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-25 00:00:00",
+    "score": 47.93,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000003-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000003-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-30 00:00:00",
+    "score": 88.94,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000003-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000003-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-20 00:00:00",
+    "score": 47.57,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000005-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000005-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-26 00:00:00",
+    "score": 73.28,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000005-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000005-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-18 00:00:00",
+    "score": 57.6,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000006-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000006-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-23 00:00:00",
+    "score": 44.55,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000006-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000006-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-18 00:00:00",
+    "score": 94.51,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000006-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000006-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-14 00:00:00",
+    "score": 94.81,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000006-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000006-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-04 00:00:00",
+    "score": 46.55,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000007-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000007-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-19 00:00:00",
+    "score": 97.15,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000007-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000007-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-27 00:00:00",
+    "score": 84.74,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000007-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000007-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-14 00:00:00",
+    "score": 69.31,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000007-CRS-000010-02",
+    "enrollment_id": "ENR-LRN-000007-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-03 00:00:00",
+    "score": 38.76,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000011-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000011-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-08 00:00:00",
+    "score": 41.55,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000011-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000011-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-22 00:00:00",
+    "score": 99.6,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000011-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000011-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-27 00:00:00",
+    "score": 83.05,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000011-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000011-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-26 00:00:00",
+    "score": 58.77,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000011-CRS-000005-02",
+    "enrollment_id": "ENR-LRN-000011-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-10 00:00:00",
+    "score": 92.89,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000012-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000012-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-26 00:00:00",
+    "score": 35.35,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000012-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000012-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-08-01 00:00:00",
+    "score": 37.36,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000012-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000012-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-16 00:00:00",
+    "score": 81.1,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000012-CRS-000002-02",
+    "enrollment_id": "ENR-LRN-000012-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-17 00:00:00",
+    "score": 90.76,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000012-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000012-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-29 00:00:00",
+    "score": 78.25,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000012-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000012-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-13 00:00:00",
+    "score": 55.03,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000013-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000013-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-25 00:00:00",
+    "score": 93.64,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000013-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000013-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-30 00:00:00",
+    "score": 73.36,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000013-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000013-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-23 00:00:00",
+    "score": 67.82,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000013-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000013-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-07-08 00:00:00",
+    "score": 60.11,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000013-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000013-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-01-16 00:00:00",
+    "score": 64.91,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000013-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000013-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-22 00:00:00",
+    "score": 79.71,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000014-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000014-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-20 00:00:00",
+    "score": 74.16,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000014-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000014-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-08 00:00:00",
+    "score": 68.25,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000014-CRS-000006-02",
+    "enrollment_id": "ENR-LRN-000014-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-30 00:00:00",
+    "score": 95.17,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000015-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000015-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-13 00:00:00",
+    "score": 90.53,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000015-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000015-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-14 00:00:00",
+    "score": 89.43,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000015-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000015-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-15 00:00:00",
+    "score": 58.09,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000016-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000016-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-23 00:00:00",
+    "score": 58.25,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000016-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000016-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-03 00:00:00",
+    "score": 44.89,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000016-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000016-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-21 00:00:00",
+    "score": 86.38,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000016-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000016-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-11-10 00:00:00",
+    "score": 97.04,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000016-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000016-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-08 00:00:00",
+    "score": 72.89,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000016-CRS-000010-02",
+    "enrollment_id": "ENR-LRN-000016-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 2,
+    "submitted_at": "2026-05-07 00:00:00",
+    "score": 99.35,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000017-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000017-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-10 00:00:00",
+    "score": 49.95,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000017-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000017-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-11-12 00:00:00",
+    "score": 83.72,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000018-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000018-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-30 00:00:00",
+    "score": 79.63,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000018-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000018-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-06-26 00:00:00",
+    "score": 71.5,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000019-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000019-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-17 00:00:00",
+    "score": 82.59,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000019-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000019-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-21 00:00:00",
+    "score": 72.52,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000020-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000020-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-29 00:00:00",
+    "score": 38.67,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000020-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000020-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-20 00:00:00",
+    "score": 74.48,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000020-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000020-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-26 00:00:00",
+    "score": 35.76,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000021-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000021-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-10 00:00:00",
+    "score": 59.66,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000021-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000021-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-23 00:00:00",
+    "score": 75.61,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000021-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000021-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-08 00:00:00",
+    "score": 48.12,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000022-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000022-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-08 00:00:00",
+    "score": 41.4,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000022-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000022-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-26 00:00:00",
+    "score": 95.39,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000022-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000022-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-05 00:00:00",
+    "score": 94.0,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000022-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000022-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-10-03 00:00:00",
+    "score": 47.18,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000022-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000022-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-13 00:00:00",
+    "score": 74.44,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000023-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000023-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-12 00:00:00",
+    "score": 38.28,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000023-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000023-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-25 00:00:00",
+    "score": 68.59,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000023-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000023-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-02 00:00:00",
+    "score": 53.56,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000026-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000026-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-30 00:00:00",
+    "score": 58.78,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000026-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000026-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-05 00:00:00",
+    "score": 49.54,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000026-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000026-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-05 00:00:00",
+    "score": 60.32,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000026-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000026-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-26 00:00:00",
+    "score": 64.89,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000027-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000027-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-03 00:00:00",
+    "score": 68.56,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000029-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000029-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-12 00:00:00",
+    "score": 94.65,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000029-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000029-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-08 00:00:00",
+    "score": 82.73,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000029-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000029-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-11 00:00:00",
+    "score": 70.93,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000030-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000030-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-06 00:00:00",
+    "score": 56.95,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000031-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000031-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-20 00:00:00",
+    "score": 52.78,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000031-CRS-000004-02",
+    "enrollment_id": "ENR-LRN-000031-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 2,
+    "submitted_at": "2026-02-24 00:00:00",
+    "score": 97.2,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000031-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000031-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-11 00:00:00",
+    "score": 38.56,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000031-CRS-000006-02",
+    "enrollment_id": "ENR-LRN-000031-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 2,
+    "submitted_at": "2026-10-13 00:00:00",
+    "score": 52.54,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000031-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000031-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-22 00:00:00",
+    "score": 58.24,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000032-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000032-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-11-24 00:00:00",
+    "score": 43.62,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000032-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000032-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-06 00:00:00",
+    "score": 95.74,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000032-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000032-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-22 00:00:00",
+    "score": 64.33,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000032-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000032-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-19 00:00:00",
+    "score": 60.22,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000032-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000032-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-19 00:00:00",
+    "score": 97.88,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000033-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000033-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-04 00:00:00",
+    "score": 48.02,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000033-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000033-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-08-25 00:00:00",
+    "score": 42.95,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000033-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000033-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-21 00:00:00",
+    "score": 66.23,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000033-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000033-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-01-23 00:00:00",
+    "score": 56.98,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000034-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000034-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-02 00:00:00",
+    "score": 98.84,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000034-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000034-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-12 00:00:00",
+    "score": 42.83,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000034-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000034-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-02 00:00:00",
+    "score": 67.04,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000035-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000035-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-20 00:00:00",
+    "score": 86.31,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000035-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000035-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-24 00:00:00",
+    "score": 35.31,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000035-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000035-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-11-08 00:00:00",
+    "score": 59.75,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000035-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000035-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-26 00:00:00",
+    "score": 54.4,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000036-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000036-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-22 00:00:00",
+    "score": 43.68,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000037-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000037-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-07 00:00:00",
+    "score": 51.86,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000037-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000037-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-05-18 00:00:00",
+    "score": 93.77,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000037-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000037-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-21 00:00:00",
+    "score": 71.28,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000038-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000038-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-20 00:00:00",
+    "score": 82.99,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000038-CRS-000008-02",
+    "enrollment_id": "ENR-LRN-000038-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-23 00:00:00",
+    "score": 41.98,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000038-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000038-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-06 00:00:00",
+    "score": 71.46,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000038-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000038-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-06-02 00:00:00",
+    "score": 54.46,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000039-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000039-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-23 00:00:00",
+    "score": 70.35,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000039-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000039-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-23 00:00:00",
+    "score": 92.11,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000040-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000040-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-19 00:00:00",
+    "score": 51.85,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000040-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000040-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-23 00:00:00",
+    "score": 77.83,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000040-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000040-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-17 00:00:00",
+    "score": 49.88,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000041-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000041-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-03 00:00:00",
+    "score": 48.7,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000041-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000041-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-18 00:00:00",
+    "score": 68.42,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000041-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000041-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-09 00:00:00",
+    "score": 39.02,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000041-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000041-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-01-28 00:00:00",
+    "score": 98.21,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000041-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000041-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-16 00:00:00",
+    "score": 42.82,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000042-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000042-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-11 00:00:00",
+    "score": 92.09,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000042-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000042-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-26 00:00:00",
+    "score": 78.14,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000043-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000043-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-12 00:00:00",
+    "score": 55.54,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000043-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000043-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-20 00:00:00",
+    "score": 76.54,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000044-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000044-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-25 00:00:00",
+    "score": 73.09,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000044-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000044-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-24 00:00:00",
+    "score": 98.26,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000044-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000044-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-12 00:00:00",
+    "score": 75.06,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000045-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000045-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-25 00:00:00",
+    "score": 70.22,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000045-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000045-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-02-09 00:00:00",
+    "score": 59.59,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000045-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000045-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-13 00:00:00",
+    "score": 91.12,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000045-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000045-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-03 00:00:00",
+    "score": 85.53,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000045-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000045-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-04 00:00:00",
+    "score": 94.5,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000045-CRS-000008-02",
+    "enrollment_id": "ENR-LRN-000045-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-20 00:00:00",
+    "score": 93.81,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000045-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000045-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-11 00:00:00",
+    "score": 42.79,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000046-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000046-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-17 00:00:00",
+    "score": 36.56,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000046-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000046-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-05-03 00:00:00",
+    "score": 53.71,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000046-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000046-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-19 00:00:00",
+    "score": 87.68,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000046-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000046-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-15 00:00:00",
+    "score": 75.7,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000047-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000047-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-11 00:00:00",
+    "score": 73.27,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000047-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000047-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-18 00:00:00",
+    "score": 85.44,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000047-CRS-000008-02",
+    "enrollment_id": "ENR-LRN-000047-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 2,
+    "submitted_at": "2026-02-20 00:00:00",
+    "score": 59.47,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000047-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000047-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-26 00:00:00",
+    "score": 43.86,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000048-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000048-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-01 00:00:00",
+    "score": 75.97,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000048-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000048-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-11 00:00:00",
+    "score": 37.51,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000048-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000048-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-01 00:00:00",
+    "score": 45.32,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000048-CRS-000008-02",
+    "enrollment_id": "ENR-LRN-000048-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 2,
+    "submitted_at": "2026-02-27 00:00:00",
+    "score": 38.15,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000049-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000049-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-14 00:00:00",
+    "score": 58.69,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000049-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000049-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-16 00:00:00",
+    "score": 40.98,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000050-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000050-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-09 00:00:00",
+    "score": 74.95,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000051-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000051-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-19 00:00:00",
+    "score": 48.84,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000051-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000051-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-23 00:00:00",
+    "score": 53.7,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000052-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000052-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-17 00:00:00",
+    "score": 83.29,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000052-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000052-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-20 00:00:00",
+    "score": 64.49,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000053-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000053-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-27 00:00:00",
+    "score": 55.62,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000053-CRS-000002-02",
+    "enrollment_id": "ENR-LRN-000053-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-08 00:00:00",
+    "score": 45.17,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000053-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000053-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-08 00:00:00",
+    "score": 60.04,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000053-CRS-000010-02",
+    "enrollment_id": "ENR-LRN-000053-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 2,
+    "submitted_at": "2026-02-15 00:00:00",
+    "score": 69.35,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000054-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000054-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-09 00:00:00",
+    "score": 82.42,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000054-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000054-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-19 00:00:00",
+    "score": 66.26,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000054-CRS-000005-02",
+    "enrollment_id": "ENR-LRN-000054-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-28 00:00:00",
+    "score": 44.41,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000054-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000054-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-15 00:00:00",
+    "score": 87.24,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000054-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000054-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-08-27 00:00:00",
+    "score": 56.04,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000055-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000055-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-08 00:00:00",
+    "score": 61.47,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000055-CRS-000003-02",
+    "enrollment_id": "ENR-LRN-000055-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-14 00:00:00",
+    "score": 77.88,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000055-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000055-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-06 00:00:00",
+    "score": 40.84,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000055-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000055-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-02 00:00:00",
+    "score": 74.51,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000056-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000056-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-19 00:00:00",
+    "score": 37.8,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000056-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000056-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-30 00:00:00",
+    "score": 74.08,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000057-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000057-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-16 00:00:00",
+    "score": 40.48,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000057-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000057-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-25 00:00:00",
+    "score": 50.5,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000057-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000057-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-28 00:00:00",
+    "score": 74.19,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000057-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000057-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-17 00:00:00",
+    "score": 77.11,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000057-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000057-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-01 00:00:00",
+    "score": 53.02,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000058-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000058-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-18 00:00:00",
+    "score": 61.21,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000058-CRS-000006-02",
+    "enrollment_id": "ENR-LRN-000058-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-27 00:00:00",
+    "score": 98.42,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000058-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000058-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-25 00:00:00",
+    "score": 84.39,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000058-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000058-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-08-30 00:00:00",
+    "score": 73.47,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000060-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000060-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-04 00:00:00",
+    "score": 90.95,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000060-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000060-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-06 00:00:00",
+    "score": 49.77,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000060-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000060-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-11 00:00:00",
+    "score": 61.31,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000061-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000061-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-21 00:00:00",
+    "score": 51.17,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000062-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000062-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-27 00:00:00",
+    "score": 72.7,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000062-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000062-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-08 00:00:00",
+    "score": 41.82,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000062-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000062-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-11 16:15:00",
+    "score": 98.07,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000062-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000062-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-07 00:00:00",
+    "score": 62.62,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000063-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000063-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-11 00:00:00",
+    "score": 90.92,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000063-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000063-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-15 00:00:00",
+    "score": 40.01,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000063-CRS-000008-02",
+    "enrollment_id": "ENR-LRN-000063-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-08 00:00:00",
+    "score": 67.49,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000063-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000063-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-06 00:00:00",
+    "score": 64.38,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000064-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000064-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-21 00:00:00",
+    "score": 52.4,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000064-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000064-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-11-18 00:00:00",
+    "score": 94.62,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000064-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000064-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-20 00:00:00",
+    "score": 94.49,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000064-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000064-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-07 00:00:00",
+    "score": 65.14,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000064-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000064-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-06-27 00:00:00",
+    "score": 90.61,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000064-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000064-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-05 00:00:00",
+    "score": 78.26,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000064-CRS-000010-02",
+    "enrollment_id": "ENR-LRN-000064-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-21 00:00:00",
+    "score": 79.5,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000065-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000065-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-22 00:00:00",
+    "score": 53.73,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000065-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000065-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-01-13 00:00:00",
+    "score": 72.4,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000065-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000065-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-30 00:00:00",
+    "score": 86.45,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000066-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000066-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-12 00:00:00",
+    "score": 44.17,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000067-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000067-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-27 00:00:00",
+    "score": 84.68,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000067-CRS-000003-02",
+    "enrollment_id": "ENR-LRN-000067-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-14 00:00:00",
+    "score": 65.6,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000067-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000067-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-06 00:00:00",
+    "score": 59.32,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000067-CRS-000006-02",
+    "enrollment_id": "ENR-LRN-000067-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 2,
+    "submitted_at": "2026-01-16 00:00:00",
+    "score": 74.96,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000067-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000067-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-15 00:00:00",
+    "score": 45.49,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000068-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000068-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-04 00:00:00",
+    "score": 44.54,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000068-CRS-000004-02",
+    "enrollment_id": "ENR-LRN-000068-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 2,
+    "submitted_at": "2026-07-29 00:00:00",
+    "score": 54.57,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000068-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000068-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-13 00:00:00",
+    "score": 40.21,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000068-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000068-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-12 00:00:00",
+    "score": 58.31,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000069-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000069-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-22 00:00:00",
+    "score": 87.55,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000070-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000070-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-16 00:00:00",
+    "score": 47.15,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000070-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000070-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-25 00:00:00",
+    "score": 80.87,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000070-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000070-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-23 00:00:00",
+    "score": 76.61,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000071-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000071-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-17 00:00:00",
+    "score": 40.05,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000071-CRS-000003-02",
+    "enrollment_id": "ENR-LRN-000071-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-18 00:00:00",
+    "score": 54.17,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000072-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000072-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-18 00:00:00",
+    "score": 47.84,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000072-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000072-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-04 00:00:00",
+    "score": 52.2,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000073-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000073-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-12 00:00:00",
+    "score": 37.93,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000074-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000074-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-18 18:15:00",
+    "score": 81.48,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000074-CRS-000003-02",
+    "enrollment_id": "ENR-LRN-000074-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 2,
+    "submitted_at": "2026-05-18 18:15:00",
+    "score": 37.82,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000074-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000074-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-01 00:00:00",
+    "score": 80.31,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000074-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000074-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-28 00:00:00",
+    "score": 98.08,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000074-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000074-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-26 00:00:00",
+    "score": 99.97,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000075-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000075-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-23 00:00:00",
+    "score": 63.77,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000076-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000076-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-21 09:15:00",
+    "score": 52.5,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000076-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000076-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-21 09:15:00",
+    "score": 61.2,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000076-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000076-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-12 00:00:00",
+    "score": 51.87,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000076-CRS-000004-02",
+    "enrollment_id": "ENR-LRN-000076-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-17 00:00:00",
+    "score": 64.53,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000077-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000077-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-01-26 00:00:00",
+    "score": 91.24,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000078-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000078-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-20 00:00:00",
+    "score": 57.8,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000078-CRS-000008-02",
+    "enrollment_id": "ENR-LRN-000078-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-11 00:00:00",
+    "score": 88.93,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000078-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000078-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-26 00:00:00",
+    "score": 49.57,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000078-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000078-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-06-10 18:15:00",
+    "score": 70.9,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000079-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000079-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-31 00:00:00",
+    "score": 92.09,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000079-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000079-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-08-15 00:00:00",
+    "score": 50.71,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000079-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000079-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-28 00:00:00",
+    "score": 98.37,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000079-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000079-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-01 20:00:00",
+    "score": 50.38,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000080-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000080-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-07 00:00:00",
+    "score": 48.21,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000080-CRS-000004-02",
+    "enrollment_id": "ENR-LRN-000080-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 2,
+    "submitted_at": "2026-04-27 00:00:00",
+    "score": 43.65,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000080-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000080-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-22 00:00:00",
+    "score": 83.45,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000080-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000080-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-24 00:00:00",
+    "score": 72.59,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000081-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000081-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-23 00:00:00",
+    "score": 41.36,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000081-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000081-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-10-10 00:00:00",
+    "score": 35.13,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000081-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000081-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-01 00:00:00",
+    "score": 51.42,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000081-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000081-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-11 00:00:00",
+    "score": 76.39,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000082-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000082-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-24 00:00:00",
+    "score": 53.62,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000082-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000082-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-13 00:00:00",
+    "score": 47.32,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000082-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000082-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-03-13 00:00:00",
+    "score": 72.72,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000083-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000083-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-03 00:00:00",
+    "score": 61.12,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000083-CRS-000003-02",
+    "enrollment_id": "ENR-LRN-000083-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 2,
+    "submitted_at": "2026-05-12 00:00:00",
+    "score": 71.94,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000084-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000084-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-08 20:15:00",
+    "score": 93.38,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000084-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000084-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-08-08 20:15:00",
+    "score": 40.66,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000084-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000084-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-29 00:00:00",
+    "score": 57.14,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000085-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000085-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-10 00:00:00",
+    "score": 39.08,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000085-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000085-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-11 00:00:00",
+    "score": 52.59,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000085-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000085-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-09 00:00:00",
+    "score": 44.61,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000086-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000086-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-09 00:00:00",
+    "score": 49.93,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000086-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000086-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-22 00:00:00",
+    "score": 55.13,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000086-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000086-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-05 00:00:00",
+    "score": 58.52,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000086-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000086-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-06-24 00:00:00",
+    "score": 91.15,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000087-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000087-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-23 00:00:00",
+    "score": 41.87,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000088-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000088-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-10 00:00:00",
+    "score": 78.07,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000088-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000088-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-11 00:00:00",
+    "score": 64.0,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000089-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000089-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-11 00:00:00",
+    "score": 99.86,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000089-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000089-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-06 00:00:00",
+    "score": 68.07,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000089-CRS-000007-02",
+    "enrollment_id": "ENR-LRN-000089-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 2,
+    "submitted_at": "2026-07-05 00:00:00",
+    "score": 94.63,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000089-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000089-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-22 00:00:00",
+    "score": 47.17,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000090-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000090-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-20 00:00:00",
+    "score": 94.82,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000090-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000090-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-22 00:00:00",
+    "score": 36.45,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000090-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000090-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-07 00:00:00",
+    "score": 74.69,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000090-CRS-000005-02",
+    "enrollment_id": "ENR-LRN-000090-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 2,
+    "submitted_at": "2026-06-21 00:00:00",
+    "score": 39.27,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000090-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000090-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-13 00:00:00",
+    "score": 76.37,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000091-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000091-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-29 00:00:00",
+    "score": 52.13,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000091-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000091-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-10-25 00:00:00",
+    "score": 66.56,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000091-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000091-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-12 00:00:00",
+    "score": 77.31,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000092-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000092-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-01 00:00:00",
+    "score": 61.72,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000093-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000093-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-11-01 00:00:00",
+    "score": 44.7,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000093-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000093-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-27 00:00:00",
+    "score": 67.89,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000093-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000093-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-22 00:00:00",
+    "score": 80.39,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000093-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000093-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-02 00:00:00",
+    "score": 60.95,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000094-CRS-000004-01",
+    "enrollment_id": "ENR-LRN-000094-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-23 19:15:00",
+    "score": 40.03,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000094-CRS-000004-02",
+    "enrollment_id": "ENR-LRN-000094-CRS-000004",
+    "assessment_id": "ASM-2026-000004",
+    "attempt_number": 2,
+    "submitted_at": "2026-06-23 19:15:00",
+    "score": 80.51,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000094-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000094-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-17 00:00:00",
+    "score": 55.43,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000094-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000094-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-23 14:45:00",
+    "score": 46.19,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000095-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000095-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-23 14:15:00",
+    "score": 98.48,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000096-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000096-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-20 00:00:00",
+    "score": 79.17,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000096-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000096-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-14 00:00:00",
+    "score": 39.17,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000096-CRS-000003-02",
+    "enrollment_id": "ENR-LRN-000096-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 2,
+    "submitted_at": "2026-05-09 00:00:00",
+    "score": 89.0,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000096-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000096-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-25 10:00:00",
+    "score": 69.31,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000096-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000096-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-08-25 10:00:00",
+    "score": 57.15,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000097-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000097-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-13 00:00:00",
+    "score": 35.5,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000097-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000097-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-14 00:00:00",
+    "score": 82.57,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000097-CRS-000005-01",
+    "enrollment_id": "ENR-LRN-000097-CRS-000005",
+    "assessment_id": "ASM-2026-000005",
+    "attempt_number": 1,
+    "submitted_at": "2026-02-21 00:00:00",
+    "score": 79.27,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000098-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000098-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-03-15 00:00:00",
+    "score": 83.77,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000098-CRS-000008-01",
+    "enrollment_id": "ENR-LRN-000098-CRS-000008",
+    "assessment_id": "ASM-2026-000008",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-03 10:00:00",
+    "score": 52.33,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000099-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000099-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-06-24 00:00:00",
+    "score": 44.07,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000099-CRS-000001-02",
+    "enrollment_id": "ENR-LRN-000099-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 2,
+    "submitted_at": "2026-05-29 00:00:00",
+    "score": 84.44,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000099-CRS-000003-01",
+    "enrollment_id": "ENR-LRN-000099-CRS-000003",
+    "assessment_id": "ASM-2026-000003",
+    "attempt_number": 1,
+    "submitted_at": "2026-04-01 00:00:00",
+    "score": 41.27,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000099-CRS-000006-01",
+    "enrollment_id": "ENR-LRN-000099-CRS-000006",
+    "assessment_id": "ASM-2026-000006",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-12 00:00:00",
+    "score": 66.25,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000099-CRS-000007-01",
+    "enrollment_id": "ENR-LRN-000099-CRS-000007",
+    "assessment_id": "ASM-2026-000007",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-22 00:00:00",
+    "score": 59.48,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000099-CRS-000009-01",
+    "enrollment_id": "ENR-LRN-000099-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-31 00:00:00",
+    "score": 62.29,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000099-CRS-000009-02",
+    "enrollment_id": "ENR-LRN-000099-CRS-000009",
+    "assessment_id": "ASM-2026-000009",
+    "attempt_number": 2,
+    "submitted_at": "2026-07-04 00:00:00",
+    "score": 50.38,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000099-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000099-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-08-18 00:00:00",
+    "score": 66.08,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000100-CRS-000001-01",
+    "enrollment_id": "ENR-LRN-000100-CRS-000001",
+    "assessment_id": "ASM-2026-000001",
+    "attempt_number": 1,
+    "submitted_at": "2026-07-31 00:00:00",
+    "score": 50.53,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000100-CRS-000002-01",
+    "enrollment_id": "ENR-LRN-000100-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 1,
+    "submitted_at": "2026-09-02 00:00:00",
+    "score": 39.76,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000100-CRS-000002-02",
+    "enrollment_id": "ENR-LRN-000100-CRS-000002",
+    "assessment_id": "ASM-2026-000002",
+    "attempt_number": 2,
+    "submitted_at": "2026-09-21 00:00:00",
+    "score": 51.67,
+    "attempt_status": "graded"
+  },
+  {
+    "attempt_id": "ATT-ENR-LRN-000100-CRS-000010-01",
+    "enrollment_id": "ENR-LRN-000100-CRS-000010",
+    "assessment_id": "ASM-2026-000010",
+    "attempt_number": 1,
+    "submitted_at": "2026-05-25 00:00:00",
+    "score": 70.26,
+    "attempt_status": "graded"
+  }
+]

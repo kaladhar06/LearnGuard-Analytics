@@ -1,0 +1,92 @@
+[
+  {
+    "assessment_id": "ASM-2026-000001",
+    "course_id": "CRS-000001",
+    "assessment_name": "Final Assessment - CRS-000001",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000002",
+    "course_id": "CRS-000002",
+    "assessment_name": "Final Assessment - CRS-000002",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000003",
+    "course_id": "CRS-000003",
+    "assessment_name": "Final Assessment - CRS-000003",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000004",
+    "course_id": "CRS-000004",
+    "assessment_name": "Final Assessment - CRS-000004",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000005",
+    "course_id": "CRS-000005",
+    "assessment_name": "Final Assessment - CRS-000005",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000006",
+    "course_id": "CRS-000006",
+    "assessment_name": "Final Assessment - CRS-000006",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000007",
+    "course_id": "CRS-000007",
+    "assessment_name": "Final Assessment - CRS-000007",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000008",
+    "course_id": "CRS-000008",
+    "assessment_name": "Final Assessment - CRS-000008",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000009",
+    "course_id": "CRS-000009",
+    "assessment_name": "Final Assessment - CRS-000009",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  },
+  {
+    "assessment_id": "ASM-2026-000010",
+    "course_id": "CRS-000010",
+    "assessment_name": "Final Assessment - CRS-000010",
+    "passing_score": 60.0,
+    "max_score": 100.0,
+    "available_from": "2026-01-01 00:00:00",
+    "available_until": "2027-01-01 00:00:00"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "project": "LearnGuard Analytics",
+  "database": "learnguard_staging",
+  "exported_at_utc": "2026-10-29T05:36:49.000331+00:00",
+  "tables": {
+    "Learner": {
+      "row_count": 100,
+      "csv_file": "data/exports/learner.csv",
+      "csv_sha256": "c211d10b31c4b1aa7b2f007449b3a5106b3d09f5ed520cfbd6cd208df66ea75d",
+      "json_file": "data/exports/learner.json",
+      "json_sha256": "22bf0cdb7c0bd35236c0d63d151329698538e2ffb58e98c689785d49808bdefc"
+    },
+    "Course": {
+      "row_count": 10,
+      "csv_file": "data/exports/course.csv",
+      "csv_sha256": "f3ad74837fdd0a44f170d624e296c0bdf4285d67335b62ef69c53c8d79a2af3b",
+      "json_file": "data/exports/course.json",
+      "json_sha256": "cd660dca73e4f1bb151bb899d57ef235f8a8df1ea9bcd3faad5cd98f4eb3ada2"
+    },
+    "Enrollment": {
+      "row_count": 300,
+      "csv_file": "data/exports/enrollment.csv",
+      "csv_sha256": "e8dad192df439db29cfca0fb3d1e631fa2796bdbaebed03cb426ab8c7befee4d",
+      "json_file": "data/exports/enrollment.json",
+      "json_sha256": "a9698d18ea25274d6904d3bd7e40fc84c736fa7a4f75faaa9f1b8e1e790f0179"
+    },
+    "ContentItem": {
+      "row_count": 40,
+      "csv_file": "data/exports/contentitem.csv",
+      "csv_sha256": "722892a72cb02269d3aab38910e6eb5013138a7df56fd6f83bc667ae843b5ce7",
+      "json_file": "data/exports/contentitem.json",
+      "json_sha256": "738c878af09eea3f98a1675481aed4503f9c849eee1523b1ba82ef6816bb402b"
+    },
+    "ActivityEvent": {
+      "row_count": 2003,
+      "csv_file": "data/exports/activityevent.csv",
+      "csv_sha256": "f99249d277123ef6bf7a02f3caa0fcbceca4f65aa3cc3b878aef2b33f9ccf3bf",
+      "json_file": "data/exports/activityevent.json",
+      "json_sha256": "0b1f77c1383eacddb95f0738e79638c72ce303cdba8bdc6c07da85e92226b82b"
+    },
+    "Assessment": {
+      "row_count": 10,
+      "csv_file": "data/exports/assessment.csv",
+      "csv_sha256": "db83ff70168a9d1544d239a93b471100410e7dfac61d5845bbfe7b0694b09816",
+      "json_file": "data/exports/assessment.json",
+      "json_sha256": "d3c1743ccb09b390dd4b0a9472f54177eadf106a41a00b1b5d0ccfb54482c0b2"
+    },
+    "Attempt": {
+      "row_count": 300,
+      "csv_file": "data/exports/attempt.csv",
+      "csv_sha256": "9c1ce94248ffb12bd5a54565509608c426c4919cc9cecea98e96cb2ee4347f40",
+      "json_file": "data/exports/attempt.json",
+      "json_sha256": "fe305d3c434c1b873b29daffb481818c6c86026a53a28bd5ac8dfffc13cc6e79"
+    },
+    "CompletionRule": {
+      "row_count": 10,
+      "csv_file": "data/exports/completionrule.csv",
+      "csv_sha256": "73c6339d84378dc7337352433927a948ca62c9b576037425f1a51fce986bb587",
+      "json_file": "data/exports/completionrule.json",
+      "json_sha256": "32a59588310f3487f2690b47dd56808d2a4e2f769971962c05be3cbe90822590"
+    },
+    "Cohort": {
+      "row_count": 9,
+      "csv_file": "data/exports/cohort.csv",
+      "csv_sha256": "3eed3db176d1bb885d2c632b36fa6fd4d8ecbc1adf916008e5672cbc2d655e50",
+      "json_file": "data/exports/cohort.json",
+      "json_sha256": "1ce26867b8bd89f6aee507c707ac772ce4ff09e27abdab8aad111d7aa9ce6b1b"
+    },
+    "EnrollmentCohort": {
+      "row_count": 300,
+      "csv_file": "data/exports/enrollmentcohort.csv",
+      "csv_sha256": "6a03728670cb1a37b439981461daf6c3ea648b9b741c5d9f56d74af698f4dfed",
+      "json_file": "data/exports/enrollmentcohort.json",
+      "json_sha256": "2dd6192853eb1bec5955844db986fbbe397f52c32f04e896d642d607c23573e3"
+    },
+    "CourseOutcome": {
+      "row_count": 301,
+      "csv_file": "data/exports/courseoutcome.csv",
+      "csv_sha256": "715aaf80ff076f31f147edc2663de25c77d3012ec2741c8322bf848cfd333cc4",
+      "json_file": "data/exports/courseoutcome.json",
+      "json_sha256": "09e944d5ef7cf045867309818ab6d797435a9904d01b6fe152e2eb32b29902a8"
+    }
+  },
+  "notes": [
+    "Synthetic test dataset exported from staging.",
+    "Injected anomaly records are intentionally retained.",
+    "ground_truth.csv is maintained separately from features."
+  ]
+}
