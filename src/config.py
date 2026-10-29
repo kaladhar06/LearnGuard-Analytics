@@ -1,11 +1,17 @@
 
 import os
+from dotenv import load_dotenv
 
-# Reproducible seed for synthetic data generation
+# Load .env before reading configuration
+load_dotenv()
+
+# Reproducible seed
 SEED = int(os.getenv("LEARNGUARD_SEED", "20261022"))
 
-# Dataset size: "test" for development, "full" for challenge output
-DATASET_MODE = os.getenv("LEARNGUARD_DATASET_MODE", "test").lower()
+# Dataset mode
+DATASET_MODE = os.getenv(
+    "LEARNGUARD_DATASET_MODE", "test"
+).lower()
 
 DATASET_SIZES = {
     "test": {
