@@ -85,5 +85,14 @@
     "Synthetic test dataset exported from staging.",
     "Injected anomaly records are intentionally retained.",
     "ground_truth.csv is maintained separately from features."
-  ]
+  ],
+  "generated_activity_csv": {
+    "path": "data/generated_activity_preview.csv",
+    "rows": 2000000,
+    "columns": 11,
+    "size_bytes": 388389218,
+    "sha256": "3328b71e92ea87ed0cd0c7b68f1c69c6da0e06880ef6a060027987581534961a",
+    "seed": 20261022,
+    "database_written": false
+  }
 }
