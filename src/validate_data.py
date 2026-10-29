@@ -1,6 +1,8 @@
 
 from src.db_connection import get_connection
 
+STAGING_DATABASE = "learnguard_staging"
+
 
 CHECKS = {
     "Enrollments with missing learners": """
@@ -103,7 +105,7 @@ CHECKS = {
             WHERE e.learner_id = ae.learner_id
               AND e.course_id = ci.course_id
         )
-    """
+    """,
 }
 
 
@@ -112,12 +114,25 @@ def main():
     cursor = None
     failed_checks = 0
 
-    print("LEARNGUARD ANALYTICS — DATA VALIDATION")
+    print("LEARNGUARD ANALYTICS - DATA VALIDATION")
     print("=" * 55)
 
     try:
-        connection = get_connection()
+        connection = get_connection(
+            database=STAGING_DATABASE
+        )
         cursor = connection.cursor()
+
+        cursor.execute("SELECT DATABASE()")
+        active_database = cursor.fetchone()[0]
+
+        if active_database != STAGING_DATABASE:
+            raise RuntimeError(
+                f"Safety check failed: connected to {active_database}"
+            )
+
+        print(f"Database: {active_database}")
+        print()
 
         for check_name, query in CHECKS.items():
             cursor.execute(query)
