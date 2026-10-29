@@ -1,4 +1,3 @@
-
 import random
 from datetime import date, datetime, timedelta
 
@@ -34,6 +33,7 @@ def insert_in_batches(cursor, sql, rows):
 
 
 def generate_learners(count, rng):
+    """Generate deterministic synthetic learner records."""
     statuses = ["active", "active", "active", "inactive", "suspended"]
     devices = ["web", "mobile", "tablet"]
     rows = []
@@ -55,7 +55,13 @@ def generate_learners(count, rng):
 
 
 def generate_courses(count, rng):
-    categories = ["Programming", "Data Analytics", "Databases", "AI"]
+    """Generate deterministic synthetic course records."""
+    categories = [
+        "Programming",
+        "Data Analytics",
+        "Databases",
+        "AI",
+    ]
     difficulties = ["beginner", "intermediate", "advanced"]
     rows = []
 
@@ -122,7 +128,8 @@ def generate_enrollments(
         )
 
         enrolled_at = datetime.combine(
-            enrolled_date, datetime.min.time()
+            enrolled_date,
+            datetime.min.time(),
         )
 
         rows.append((
@@ -143,7 +150,10 @@ def main():
     cursor = None
 
     try:
-        connection = get_connection()
+        # SAFETY: explicitly connect to staging, never the original database.
+        connection = get_connection(
+            database="learnguard_staging"
+        )
         cursor = connection.cursor()
 
         learners = generate_learners(NUM_LEARNERS, rng)
@@ -202,11 +212,18 @@ def main():
         connection.commit()
 
         print("Master data generation completed.")
+        print("Database: learnguard_staging")
         print(f"Learners generated: {len(learners):,}")
         print(f"Courses generated: {len(courses):,}")
         print(f"Enrollments generated: {len(enrollments):,}")
         print(f"Seed used: {SEED}")
-        print("Existing matching primary keys were updated, not duplicated.")
+        print(
+            "Existing matching primary keys were updated, not duplicated."
+        )
+        print(
+            "Note: this script does not rebuild activity events, "
+            "assessments, attempts, cohorts, or outcomes."
+        )
 
     except Exception:
         if connection is not None:
