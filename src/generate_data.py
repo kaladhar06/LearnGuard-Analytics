@@ -1,3 +1,4 @@
+
 import random
 from datetime import date, datetime, timedelta
 
@@ -10,6 +11,7 @@ from src.config import (
 from src.db_connection import get_connection
 
 
+STAGING_DATABASE = "learnguard_staging"
 BATCH_SIZE = 5_000
 
 
@@ -26,29 +28,40 @@ def enrollment_id(learner, course):
 
 
 def insert_in_batches(cursor, sql, rows):
-    """Insert rows in manageable batches."""
+    """Insert records in manageable batches."""
     for start in range(0, len(rows), BATCH_SIZE):
-        batch = rows[start:start + BATCH_SIZE]
-        cursor.executemany(sql, batch)
+        cursor.executemany(
+            sql,
+            rows[start:start + BATCH_SIZE],
+        )
 
 
 def generate_learners(count, rng):
     """Generate deterministic synthetic learner records."""
-    statuses = ["active", "active", "active", "inactive", "suspended"]
+    statuses = [
+        "active",
+        "active",
+        "active",
+        "inactive",
+        "suspended",
+    ]
     devices = ["web", "mobile", "tablet"]
     rows = []
 
-    for i in range(1, count + 1):
+    for number in range(1, count + 1):
         registered = date(2025, 1, 1) + timedelta(
             days=rng.randint(0, 650)
         )
 
         rows.append((
-            learner_id(i),
+            learner_id(number),
             registered,
             rng.choice(statuses),
             rng.choice(devices),
-            datetime.combine(registered, datetime.min.time()),
+            datetime.combine(
+                registered,
+                datetime.min.time(),
+            ),
         ))
 
     return rows
@@ -62,15 +75,19 @@ def generate_courses(count, rng):
         "Databases",
         "AI",
     ]
-    difficulties = ["beginner", "intermediate", "advanced"]
+    difficulties = [
+        "beginner",
+        "intermediate",
+        "advanced",
+    ]
     rows = []
 
-    for i in range(1, count + 1):
+    for number in range(1, count + 1):
         category = rng.choice(categories)
 
         rows.append((
-            course_id(i),
-            f"{category} Course {i:03d}",
+            course_id(number),
+            f"{category} Course {number:03d}",
             category,
             rng.choice(difficulties),
             "published",
@@ -87,7 +104,22 @@ def generate_enrollments(
     learner_rows,
     rng,
 ):
-    """Generate unique learner/course pairs with valid date ordering."""
+    """
+    Generate unique learner/course pairs.
+
+    Sample integer indexes instead of building a list containing
+    every possible learner/course combination. This reduces
+    peak memory use for the full dataset.
+    """
+    if learner_count < 1 or course_count < 1:
+        raise ValueError(
+            "Learner and course counts must both be positive."
+        )
+
+    if enrollment_count < 0:
+        raise ValueError(
+            "Enrollment count cannot be negative."
+        )
 
     maximum_pairs = learner_count * course_count
 
@@ -97,31 +129,31 @@ def generate_enrollments(
             f"{maximum_pairs:,} unique learner/course pairs are possible."
         )
 
-    if enrollment_count < 0:
-        raise ValueError("Enrollment count cannot be negative.")
-
     registration_dates = {
-        row[0]: row[1] for row in learner_rows
+        row[0]: row[1]
+        for row in learner_rows
     }
 
-    # Sample without replacement to guarantee unique pairs.
-    pairs = rng.sample(
-        [
-            (learner_num, course_num)
-            for learner_num in range(1, learner_count + 1)
-            for course_num in range(1, course_count + 1)
-        ],
+    # Each integer identifies one unique learner/course pair.
+    selected_indexes = rng.sample(
+        range(maximum_pairs),
         enrollment_count,
     )
 
     rows = []
 
-    for learner_num, course_num in pairs:
-        learner = learner_id(learner_num)
-        course = course_id(course_num)
+    for pair_index in selected_indexes:
+        learner_number = pair_index // course_count + 1
+        course_number = pair_index % course_count + 1
+
+        learner = learner_id(learner_number)
+        course = course_id(course_number)
 
         registration_date = registration_dates[learner]
-        earliest_date = max(date(2026, 1, 1), registration_date)
+        earliest_date = max(
+            date(2026, 1, 1),
+            registration_date,
+        )
 
         enrolled_date = earliest_date + timedelta(
             days=rng.randint(0, 270)
@@ -150,14 +182,45 @@ def main():
     cursor = None
 
     try:
-        # SAFETY: explicitly connect to staging, never the original database.
+        # Safety: never use the original database.
         connection = get_connection(
-            database="learnguard_staging"
+            database=STAGING_DATABASE
         )
+
         cursor = connection.cursor()
 
-        learners = generate_learners(NUM_LEARNERS, rng)
-        courses = generate_courses(NUM_COURSES, rng)
+        cursor.execute("SELECT DATABASE()")
+        active_database = cursor.fetchone()[0]
+
+        if active_database != STAGING_DATABASE:
+            raise RuntimeError(
+                "Database safety check failed. Expected "
+                f"{STAGING_DATABASE}, got {active_database!r}."
+            )
+
+        print("LEARNGUARD MASTER DATA GENERATOR")
+        print("=" * 55)
+        print(f"Database: {active_database}")
+        print(f"Seed: {SEED}")
+        print(f"Target learners: {NUM_LEARNERS:,}")
+        print(f"Target courses: {NUM_COURSES:,}")
+        print(f"Target enrollments: {NUM_ENROLLMENTS:,}")
+
+        if NUM_ENROLLMENTS > NUM_LEARNERS * NUM_COURSES:
+            raise ValueError(
+                "The enrollment target exceeds the number of "
+                "unique learner/course combinations."
+            )
+
+        learners = generate_learners(
+            NUM_LEARNERS,
+            rng,
+        )
+
+        courses = generate_courses(
+            NUM_COURSES,
+            rng,
+        )
 
         enrollments = generate_enrollments(
             NUM_LEARNERS,
@@ -168,9 +231,13 @@ def main():
         )
 
         learner_sql = """
-            INSERT INTO Learner
-            (learner_id, registration_date, learner_status,
-             preferred_device, created_at)
+            INSERT INTO Learner (
+                learner_id,
+                registration_date,
+                learner_status,
+                preferred_device,
+                created_at
+            )
             VALUES (%s, %s, %s, %s, %s)
             ON DUPLICATE KEY UPDATE
                 registration_date = VALUES(registration_date),
@@ -180,9 +247,14 @@ def main():
         """
 
         course_sql = """
-            INSERT INTO Course
-            (course_id, course_name, category, difficulty,
-             course_status, created_at)
+            INSERT INTO Course (
+                course_id,
+                course_name,
+                category,
+                difficulty,
+                course_status,
+                created_at
+            )
             VALUES (%s, %s, %s, %s, %s, %s)
             ON DUPLICATE KEY UPDATE
                 course_name = VALUES(course_name),
@@ -193,9 +265,14 @@ def main():
         """
 
         enrollment_sql = """
-            INSERT INTO Enrollment
-            (enrollment_id, learner_id, course_id, enrolled_at,
-             enrollment_status, cohort_label)
+            INSERT INTO Enrollment (
+                enrollment_id,
+                learner_id,
+                course_id,
+                enrolled_at,
+                enrollment_status,
+                cohort_label
+            )
             VALUES (%s, %s, %s, %s, %s, %s)
             ON DUPLICATE KEY UPDATE
                 learner_id = VALUES(learner_id),
@@ -205,24 +282,44 @@ def main():
                 cohort_label = VALUES(cohort_label)
         """
 
-        insert_in_batches(cursor, learner_sql, learners)
-        insert_in_batches(cursor, course_sql, courses)
-        insert_in_batches(cursor, enrollment_sql, enrollments)
+        print("\nWriting learners...")
+        insert_in_batches(
+            cursor,
+            learner_sql,
+            learners,
+        )
+
+        print("Writing courses...")
+        insert_in_batches(
+            cursor,
+            course_sql,
+            courses,
+        )
+
+        print("Writing enrollments...")
+        insert_in_batches(
+            cursor,
+            enrollment_sql,
+            enrollments,
+        )
 
         connection.commit()
 
-        print("Master data generation completed.")
-        print("Database: learnguard_staging")
+        print("\nMASTER DATA GENERATION COMPLETED")
+        print("=" * 55)
         print(f"Learners generated: {len(learners):,}")
         print(f"Courses generated: {len(courses):,}")
         print(f"Enrollments generated: {len(enrollments):,}")
-        print(f"Seed used: {SEED}")
+        print(f"Database: {STAGING_DATABASE}")
+        print(f"Seed: {SEED}")
+        print("\nExisting matching IDs are updated rather than duplicated.")
         print(
-            "Existing matching primary keys were updated, not duplicated."
+            "This script does not generate activity events, content, "
+            "assessments, attempts, cohorts, or outcomes."
         )
         print(
-            "Note: this script does not rebuild activity events, "
-            "assessments, attempts, cohorts, or outcomes."
+            "It does not remove stale rows. A controlled full rebuild "
+            "is required before changing dataset sizes."
         )
 
     except Exception:
