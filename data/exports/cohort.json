@@ -61,5 +61,75 @@
     "cohort_type": "enrollment_month",
     "start_date": "2026-09-01",
     "end_date": "2026-09-30"
+  },
+  {
+    "cohort_id": "COH-2026-10",
+    "cohort_name": "Enrollment Cohort October 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-31"
+  },
+  {
+    "cohort_id": "COH-2026-11",
+    "cohort_name": "Enrollment Cohort November 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-30"
+  },
+  {
+    "cohort_id": "COH-2026-12",
+    "cohort_name": "Enrollment Cohort December 2026",
+    "cohort_type": "enrollment_month",
+    "start_date": "2026-12-01",
+    "end_date": "2026-12-31"
+  },
+  {
+    "cohort_id": "COH-2027-01",
+    "cohort_name": "Enrollment Cohort January 2027",
+    "cohort_type": "enrollment_month",
+    "start_date": "2027-01-01",
+    "end_date": "2027-01-31"
+  },
+  {
+    "cohort_id": "COH-2027-02",
+    "cohort_name": "Enrollment Cohort February 2027",
+    "cohort_type": "enrollment_month",
+    "start_date": "2027-02-01",
+    "end_date": "2027-02-28"
+  },
+  {
+    "cohort_id": "COH-2027-03",
+    "cohort_name": "Enrollment Cohort March 2027",
+    "cohort_type": "enrollment_month",
+    "start_date": "2027-03-01",
+    "end_date": "2027-03-31"
+  },
+  {
+    "cohort_id": "COH-2027-04",
+    "cohort_name": "Enrollment Cohort April 2027",
+    "cohort_type": "enrollment_month",
+    "start_date": "2027-04-01",
+    "end_date": "2027-04-30"
+  },
+  {
+    "cohort_id": "COH-2027-05",
+    "cohort_name": "Enrollment Cohort May 2027",
+    "cohort_type": "enrollment_month",
+    "start_date": "2027-05-01",
+    "end_date": "2027-05-31"
+  },
+  {
+    "cohort_id": "COH-2027-06",
+    "cohort_name": "Enrollment Cohort June 2027",
+    "cohort_type": "enrollment_month",
+    "start_date": "2027-06-01",
+    "end_date": "2027-06-30"
+  },
+  {
+    "cohort_id": "COH-2027-07",
+    "cohort_name": "Enrollment Cohort July 2027",
+    "cohort_type": "enrollment_month",
+    "start_date": "2027-07-01",
+    "end_date": "2027-07-31"
   }
 ]

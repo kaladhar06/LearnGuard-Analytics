@@ -9,3 +9,493 @@ CRS-000007,Data Analytics Course 007,Data Analytics,beginner,published,2026-01-0
 CRS-000008,Machine Learning Course 008,Machine Learning,intermediate,published,2026-01-01 00:00:00
 CRS-000009,Web Development Course 009,Web Development,advanced,published,2026-01-01 00:00:00
 CRS-000010,Database Management Course 010,Database Management,beginner,published,2026-01-01 00:00:00
+CRS-000011,AI Course 011,AI,advanced,published,2026-01-01 00:00:00
+CRS-000012,Databases Course 012,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000013,Databases Course 013,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000014,Data Analytics Course 014,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000015,AI Course 015,AI,advanced,published,2026-01-01 00:00:00
+CRS-000016,Programming Course 016,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000017,AI Course 017,AI,beginner,published,2026-01-01 00:00:00
+CRS-000018,Data Analytics Course 018,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000019,Programming Course 019,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000020,Programming Course 020,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000021,Databases Course 021,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000022,Databases Course 022,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000023,AI Course 023,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000024,Databases Course 024,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000025,Programming Course 025,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000026,Databases Course 026,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000027,Programming Course 027,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000028,Programming Course 028,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000029,Data Analytics Course 029,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000030,Data Analytics Course 030,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000031,Data Analytics Course 031,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000032,AI Course 032,AI,advanced,published,2026-01-01 00:00:00
+CRS-000033,Databases Course 033,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000034,Data Analytics Course 034,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000035,AI Course 035,AI,advanced,published,2026-01-01 00:00:00
+CRS-000036,Programming Course 036,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000037,Programming Course 037,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000038,AI Course 038,AI,advanced,published,2026-01-01 00:00:00
+CRS-000039,Data Analytics Course 039,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000040,Programming Course 040,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000041,AI Course 041,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000042,Data Analytics Course 042,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000043,Data Analytics Course 043,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000044,Programming Course 044,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000045,Data Analytics Course 045,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000046,AI Course 046,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000047,Data Analytics Course 047,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000048,Data Analytics Course 048,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000049,Data Analytics Course 049,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000050,Data Analytics Course 050,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000051,Databases Course 051,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000052,Data Analytics Course 052,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000053,AI Course 053,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000054,Data Analytics Course 054,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000055,Databases Course 055,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000056,AI Course 056,AI,advanced,published,2026-01-01 00:00:00
+CRS-000057,Programming Course 057,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000058,AI Course 058,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000059,Programming Course 059,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000060,AI Course 060,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000061,Data Analytics Course 061,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000062,Databases Course 062,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000063,Programming Course 063,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000064,Data Analytics Course 064,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000065,AI Course 065,AI,beginner,published,2026-01-01 00:00:00
+CRS-000066,Data Analytics Course 066,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000067,Databases Course 067,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000068,Databases Course 068,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000069,Data Analytics Course 069,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000070,Databases Course 070,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000071,Databases Course 071,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000072,Databases Course 072,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000073,Databases Course 073,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000074,Databases Course 074,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000075,Programming Course 075,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000076,AI Course 076,AI,beginner,published,2026-01-01 00:00:00
+CRS-000077,Programming Course 077,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000078,AI Course 078,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000079,Programming Course 079,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000080,AI Course 080,AI,advanced,published,2026-01-01 00:00:00
+CRS-000081,Programming Course 081,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000082,Programming Course 082,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000083,Databases Course 083,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000084,Programming Course 084,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000085,Programming Course 085,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000086,Data Analytics Course 086,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000087,Data Analytics Course 087,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000088,Programming Course 088,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000089,Databases Course 089,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000090,AI Course 090,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000091,Databases Course 091,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000092,Databases Course 092,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000093,Programming Course 093,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000094,Data Analytics Course 094,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000095,AI Course 095,AI,advanced,published,2026-01-01 00:00:00
+CRS-000096,Programming Course 096,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000097,Programming Course 097,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000098,Databases Course 098,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000099,AI Course 099,AI,advanced,published,2026-01-01 00:00:00
+CRS-000100,AI Course 100,AI,beginner,published,2026-01-01 00:00:00
+CRS-000101,AI Course 101,AI,advanced,published,2026-01-01 00:00:00
+CRS-000102,Databases Course 102,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000103,Data Analytics Course 103,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000104,AI Course 104,AI,beginner,published,2026-01-01 00:00:00
+CRS-000105,Programming Course 105,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000106,Databases Course 106,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000107,Data Analytics Course 107,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000108,Programming Course 108,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000109,AI Course 109,AI,advanced,published,2026-01-01 00:00:00
+CRS-000110,AI Course 110,AI,advanced,published,2026-01-01 00:00:00
+CRS-000111,Databases Course 111,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000112,AI Course 112,AI,beginner,published,2026-01-01 00:00:00
+CRS-000113,AI Course 113,AI,advanced,published,2026-01-01 00:00:00
+CRS-000114,Databases Course 114,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000115,Databases Course 115,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000116,Databases Course 116,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000117,Data Analytics Course 117,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000118,Data Analytics Course 118,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000119,AI Course 119,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000120,Programming Course 120,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000121,Data Analytics Course 121,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000122,Data Analytics Course 122,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000123,Databases Course 123,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000124,AI Course 124,AI,advanced,published,2026-01-01 00:00:00
+CRS-000125,Data Analytics Course 125,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000126,Data Analytics Course 126,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000127,Data Analytics Course 127,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000128,Data Analytics Course 128,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000129,Programming Course 129,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000130,AI Course 130,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000131,Programming Course 131,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000132,AI Course 132,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000133,AI Course 133,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000134,AI Course 134,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000135,Programming Course 135,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000136,AI Course 136,AI,advanced,published,2026-01-01 00:00:00
+CRS-000137,Programming Course 137,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000138,AI Course 138,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000139,Databases Course 139,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000140,Databases Course 140,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000141,Programming Course 141,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000142,Programming Course 142,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000143,Databases Course 143,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000144,Programming Course 144,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000145,Programming Course 145,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000146,Programming Course 146,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000147,Data Analytics Course 147,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000148,Databases Course 148,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000149,Programming Course 149,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000150,AI Course 150,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000151,Programming Course 151,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000152,Data Analytics Course 152,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000153,Databases Course 153,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000154,AI Course 154,AI,advanced,published,2026-01-01 00:00:00
+CRS-000155,Databases Course 155,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000156,Databases Course 156,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000157,AI Course 157,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000158,Programming Course 158,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000159,AI Course 159,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000160,Programming Course 160,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000161,Databases Course 161,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000162,Databases Course 162,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000163,AI Course 163,AI,advanced,published,2026-01-01 00:00:00
+CRS-000164,Data Analytics Course 164,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000165,Databases Course 165,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000166,Programming Course 166,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000167,Data Analytics Course 167,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000168,Programming Course 168,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000169,Databases Course 169,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000170,Databases Course 170,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000171,AI Course 171,AI,advanced,published,2026-01-01 00:00:00
+CRS-000172,AI Course 172,AI,beginner,published,2026-01-01 00:00:00
+CRS-000173,Data Analytics Course 173,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000174,Programming Course 174,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000175,Databases Course 175,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000176,Databases Course 176,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000177,AI Course 177,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000178,Programming Course 178,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000179,Databases Course 179,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000180,AI Course 180,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000181,Databases Course 181,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000182,AI Course 182,AI,beginner,published,2026-01-01 00:00:00
+CRS-000183,AI Course 183,AI,beginner,published,2026-01-01 00:00:00
+CRS-000184,Data Analytics Course 184,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000185,AI Course 185,AI,beginner,published,2026-01-01 00:00:00
+CRS-000186,Data Analytics Course 186,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000187,Programming Course 187,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000188,AI Course 188,AI,beginner,published,2026-01-01 00:00:00
+CRS-000189,Programming Course 189,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000190,Programming Course 190,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000191,Programming Course 191,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000192,AI Course 192,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000193,Databases Course 193,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000194,Programming Course 194,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000195,Data Analytics Course 195,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000196,Databases Course 196,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000197,Programming Course 197,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000198,AI Course 198,AI,beginner,published,2026-01-01 00:00:00
+CRS-000199,Databases Course 199,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000200,Programming Course 200,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000201,Data Analytics Course 201,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000202,Data Analytics Course 202,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000203,Data Analytics Course 203,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000204,Databases Course 204,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000205,AI Course 205,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000206,AI Course 206,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000207,AI Course 207,AI,beginner,published,2026-01-01 00:00:00
+CRS-000208,Databases Course 208,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000209,Programming Course 209,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000210,AI Course 210,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000211,Data Analytics Course 211,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000212,Data Analytics Course 212,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000213,Data Analytics Course 213,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000214,Data Analytics Course 214,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000215,Programming Course 215,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000216,Programming Course 216,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000217,Databases Course 217,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000218,Data Analytics Course 218,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000219,AI Course 219,AI,beginner,published,2026-01-01 00:00:00
+CRS-000220,Databases Course 220,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000221,Databases Course 221,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000222,Data Analytics Course 222,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000223,AI Course 223,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000224,Data Analytics Course 224,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000225,AI Course 225,AI,advanced,published,2026-01-01 00:00:00
+CRS-000226,Data Analytics Course 226,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000227,Programming Course 227,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000228,Data Analytics Course 228,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000229,Databases Course 229,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000230,Databases Course 230,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000231,Databases Course 231,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000232,Data Analytics Course 232,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000233,Programming Course 233,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000234,Databases Course 234,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000235,Programming Course 235,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000236,Data Analytics Course 236,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000237,Programming Course 237,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000238,Data Analytics Course 238,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000239,AI Course 239,AI,beginner,published,2026-01-01 00:00:00
+CRS-000240,Data Analytics Course 240,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000241,Databases Course 241,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000242,Databases Course 242,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000243,Data Analytics Course 243,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000244,Programming Course 244,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000245,Programming Course 245,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000246,Databases Course 246,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000247,Databases Course 247,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000248,Programming Course 248,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000249,Data Analytics Course 249,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000250,Programming Course 250,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000251,Programming Course 251,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000252,AI Course 252,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000253,Data Analytics Course 253,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000254,AI Course 254,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000255,Data Analytics Course 255,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000256,Databases Course 256,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000257,Data Analytics Course 257,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000258,Programming Course 258,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000259,AI Course 259,AI,advanced,published,2026-01-01 00:00:00
+CRS-000260,Programming Course 260,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000261,AI Course 261,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000262,AI Course 262,AI,beginner,published,2026-01-01 00:00:00
+CRS-000263,AI Course 263,AI,beginner,published,2026-01-01 00:00:00
+CRS-000264,Data Analytics Course 264,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000265,Data Analytics Course 265,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000266,Databases Course 266,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000267,Data Analytics Course 267,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000268,Databases Course 268,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000269,Data Analytics Course 269,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000270,AI Course 270,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000271,AI Course 271,AI,advanced,published,2026-01-01 00:00:00
+CRS-000272,Data Analytics Course 272,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000273,Programming Course 273,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000274,Databases Course 274,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000275,Programming Course 275,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000276,Databases Course 276,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000277,AI Course 277,AI,advanced,published,2026-01-01 00:00:00
+CRS-000278,AI Course 278,AI,advanced,published,2026-01-01 00:00:00
+CRS-000279,Databases Course 279,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000280,Programming Course 280,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000281,Databases Course 281,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000282,AI Course 282,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000283,AI Course 283,AI,advanced,published,2026-01-01 00:00:00
+CRS-000284,Data Analytics Course 284,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000285,Databases Course 285,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000286,Databases Course 286,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000287,Programming Course 287,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000288,Databases Course 288,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000289,Programming Course 289,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000290,Programming Course 290,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000291,Databases Course 291,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000292,Data Analytics Course 292,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000293,Databases Course 293,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000294,Databases Course 294,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000295,Databases Course 295,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000296,Programming Course 296,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000297,AI Course 297,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000298,Programming Course 298,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000299,Databases Course 299,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000300,AI Course 300,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000301,AI Course 301,AI,advanced,published,2026-01-01 00:00:00
+CRS-000302,Data Analytics Course 302,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000303,Data Analytics Course 303,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000304,Data Analytics Course 304,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000305,Programming Course 305,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000306,Programming Course 306,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000307,Databases Course 307,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000308,Data Analytics Course 308,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000309,Programming Course 309,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000310,Programming Course 310,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000311,Data Analytics Course 311,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000312,Programming Course 312,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000313,Programming Course 313,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000314,Data Analytics Course 314,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000315,Databases Course 315,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000316,Data Analytics Course 316,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000317,Data Analytics Course 317,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000318,AI Course 318,AI,advanced,published,2026-01-01 00:00:00
+CRS-000319,Programming Course 319,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000320,AI Course 320,AI,beginner,published,2026-01-01 00:00:00
+CRS-000321,Databases Course 321,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000322,Databases Course 322,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000323,Databases Course 323,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000324,Data Analytics Course 324,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000325,Data Analytics Course 325,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000326,Databases Course 326,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000327,Databases Course 327,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000328,AI Course 328,AI,advanced,published,2026-01-01 00:00:00
+CRS-000329,Programming Course 329,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000330,Data Analytics Course 330,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000331,Programming Course 331,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000332,Programming Course 332,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000333,Programming Course 333,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000334,AI Course 334,AI,advanced,published,2026-01-01 00:00:00
+CRS-000335,Data Analytics Course 335,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000336,Data Analytics Course 336,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000337,Data Analytics Course 337,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000338,Data Analytics Course 338,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000339,AI Course 339,AI,beginner,published,2026-01-01 00:00:00
+CRS-000340,Data Analytics Course 340,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000341,AI Course 341,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000342,Programming Course 342,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000343,Databases Course 343,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000344,AI Course 344,AI,advanced,published,2026-01-01 00:00:00
+CRS-000345,Data Analytics Course 345,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000346,Databases Course 346,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000347,Databases Course 347,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000348,Data Analytics Course 348,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000349,Data Analytics Course 349,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000350,AI Course 350,AI,advanced,published,2026-01-01 00:00:00
+CRS-000351,Databases Course 351,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000352,Databases Course 352,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000353,Databases Course 353,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000354,Data Analytics Course 354,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000355,Databases Course 355,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000356,Programming Course 356,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000357,Programming Course 357,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000358,Databases Course 358,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000359,Databases Course 359,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000360,Programming Course 360,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000361,AI Course 361,AI,advanced,published,2026-01-01 00:00:00
+CRS-000362,AI Course 362,AI,advanced,published,2026-01-01 00:00:00
+CRS-000363,Data Analytics Course 363,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000364,Data Analytics Course 364,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000365,Databases Course 365,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000366,AI Course 366,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000367,Data Analytics Course 367,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000368,Programming Course 368,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000369,AI Course 369,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000370,Data Analytics Course 370,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000371,Databases Course 371,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000372,Databases Course 372,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000373,Programming Course 373,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000374,Databases Course 374,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000375,AI Course 375,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000376,Programming Course 376,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000377,AI Course 377,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000378,Programming Course 378,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000379,Programming Course 379,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000380,Programming Course 380,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000381,Databases Course 381,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000382,Data Analytics Course 382,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000383,AI Course 383,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000384,Databases Course 384,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000385,Databases Course 385,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000386,AI Course 386,AI,beginner,published,2026-01-01 00:00:00
+CRS-000387,AI Course 387,AI,beginner,published,2026-01-01 00:00:00
+CRS-000388,Data Analytics Course 388,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000389,AI Course 389,AI,beginner,published,2026-01-01 00:00:00
+CRS-000390,Programming Course 390,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000391,Databases Course 391,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000392,Databases Course 392,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000393,AI Course 393,AI,advanced,published,2026-01-01 00:00:00
+CRS-000394,AI Course 394,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000395,Programming Course 395,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000396,Data Analytics Course 396,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000397,Databases Course 397,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000398,Programming Course 398,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000399,Programming Course 399,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000400,Data Analytics Course 400,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000401,Data Analytics Course 401,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000402,Data Analytics Course 402,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000403,Programming Course 403,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000404,AI Course 404,AI,advanced,published,2026-01-01 00:00:00
+CRS-000405,Data Analytics Course 405,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000406,Programming Course 406,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000407,Databases Course 407,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000408,Programming Course 408,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000409,Databases Course 409,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000410,Data Analytics Course 410,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000411,Databases Course 411,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000412,AI Course 412,AI,advanced,published,2026-01-01 00:00:00
+CRS-000413,Databases Course 413,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000414,Programming Course 414,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000415,Databases Course 415,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000416,Data Analytics Course 416,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000417,Data Analytics Course 417,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000418,AI Course 418,AI,advanced,published,2026-01-01 00:00:00
+CRS-000419,Programming Course 419,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000420,Databases Course 420,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000421,Databases Course 421,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000422,AI Course 422,AI,advanced,published,2026-01-01 00:00:00
+CRS-000423,Programming Course 423,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000424,Databases Course 424,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000425,AI Course 425,AI,advanced,published,2026-01-01 00:00:00
+CRS-000426,AI Course 426,AI,beginner,published,2026-01-01 00:00:00
+CRS-000427,Databases Course 427,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000428,Data Analytics Course 428,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000429,Databases Course 429,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000430,Programming Course 430,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000431,Data Analytics Course 431,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000432,Programming Course 432,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000433,AI Course 433,AI,beginner,published,2026-01-01 00:00:00
+CRS-000434,Programming Course 434,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000435,Data Analytics Course 435,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000436,Databases Course 436,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000437,Databases Course 437,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000438,Data Analytics Course 438,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000439,AI Course 439,AI,beginner,published,2026-01-01 00:00:00
+CRS-000440,Programming Course 440,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000441,Data Analytics Course 441,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000442,Databases Course 442,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000443,Programming Course 443,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000444,Programming Course 444,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000445,Data Analytics Course 445,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000446,Programming Course 446,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000447,Programming Course 447,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000448,Data Analytics Course 448,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000449,AI Course 449,AI,advanced,published,2026-01-01 00:00:00
+CRS-000450,Programming Course 450,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000451,Programming Course 451,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000452,Databases Course 452,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000453,AI Course 453,AI,beginner,published,2026-01-01 00:00:00
+CRS-000454,Databases Course 454,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000455,Databases Course 455,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000456,Databases Course 456,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000457,Databases Course 457,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000458,AI Course 458,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000459,Databases Course 459,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000460,AI Course 460,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000461,Programming Course 461,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000462,Programming Course 462,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000463,Programming Course 463,Programming,intermediate,published,2026-01-01 00:00:00
+CRS-000464,Databases Course 464,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000465,Programming Course 465,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000466,AI Course 466,AI,advanced,published,2026-01-01 00:00:00
+CRS-000467,AI Course 467,AI,beginner,published,2026-01-01 00:00:00
+CRS-000468,AI Course 468,AI,advanced,published,2026-01-01 00:00:00
+CRS-000469,Databases Course 469,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000470,Data Analytics Course 470,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000471,Data Analytics Course 471,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000472,Data Analytics Course 472,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000473,Databases Course 473,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000474,Data Analytics Course 474,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000475,AI Course 475,AI,advanced,published,2026-01-01 00:00:00
+CRS-000476,AI Course 476,AI,beginner,published,2026-01-01 00:00:00
+CRS-000477,Databases Course 477,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000478,Data Analytics Course 478,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000479,Programming Course 479,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000480,Data Analytics Course 480,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000481,AI Course 481,AI,beginner,published,2026-01-01 00:00:00
+CRS-000482,Databases Course 482,Databases,advanced,published,2026-01-01 00:00:00
+CRS-000483,AI Course 483,AI,advanced,published,2026-01-01 00:00:00
+CRS-000484,AI Course 484,AI,advanced,published,2026-01-01 00:00:00
+CRS-000485,Data Analytics Course 485,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000486,AI Course 486,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000487,AI Course 487,AI,intermediate,published,2026-01-01 00:00:00
+CRS-000488,Databases Course 488,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000489,Data Analytics Course 489,Data Analytics,advanced,published,2026-01-01 00:00:00
+CRS-000490,Data Analytics Course 490,Data Analytics,intermediate,published,2026-01-01 00:00:00
+CRS-000491,Programming Course 491,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000492,Databases Course 492,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000493,AI Course 493,AI,beginner,published,2026-01-01 00:00:00
+CRS-000494,Programming Course 494,Programming,advanced,published,2026-01-01 00:00:00
+CRS-000495,Programming Course 495,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000496,Databases Course 496,Databases,intermediate,published,2026-01-01 00:00:00
+CRS-000497,Data Analytics Course 497,Data Analytics,beginner,published,2026-01-01 00:00:00
+CRS-000498,Programming Course 498,Programming,beginner,published,2026-01-01 00:00:00
+CRS-000499,Databases Course 499,Databases,beginner,published,2026-01-01 00:00:00
+CRS-000500,Databases Course 500,Databases,intermediate,published,2026-01-01 00:00:00

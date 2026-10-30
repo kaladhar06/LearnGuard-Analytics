@@ -78,5 +78,3925 @@
     "difficulty": "beginner",
     "course_status": "published",
     "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000011",
+    "course_name": "AI Course 011",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000012",
+    "course_name": "Databases Course 012",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000013",
+    "course_name": "Databases Course 013",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000014",
+    "course_name": "Data Analytics Course 014",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000015",
+    "course_name": "AI Course 015",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000016",
+    "course_name": "Programming Course 016",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000017",
+    "course_name": "AI Course 017",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000018",
+    "course_name": "Data Analytics Course 018",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000019",
+    "course_name": "Programming Course 019",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000020",
+    "course_name": "Programming Course 020",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000021",
+    "course_name": "Databases Course 021",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000022",
+    "course_name": "Databases Course 022",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000023",
+    "course_name": "AI Course 023",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000024",
+    "course_name": "Databases Course 024",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000025",
+    "course_name": "Programming Course 025",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000026",
+    "course_name": "Databases Course 026",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000027",
+    "course_name": "Programming Course 027",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000028",
+    "course_name": "Programming Course 028",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000029",
+    "course_name": "Data Analytics Course 029",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000030",
+    "course_name": "Data Analytics Course 030",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000031",
+    "course_name": "Data Analytics Course 031",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000032",
+    "course_name": "AI Course 032",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000033",
+    "course_name": "Databases Course 033",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000034",
+    "course_name": "Data Analytics Course 034",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000035",
+    "course_name": "AI Course 035",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000036",
+    "course_name": "Programming Course 036",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000037",
+    "course_name": "Programming Course 037",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000038",
+    "course_name": "AI Course 038",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000039",
+    "course_name": "Data Analytics Course 039",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000040",
+    "course_name": "Programming Course 040",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000041",
+    "course_name": "AI Course 041",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000042",
+    "course_name": "Data Analytics Course 042",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000043",
+    "course_name": "Data Analytics Course 043",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000044",
+    "course_name": "Programming Course 044",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000045",
+    "course_name": "Data Analytics Course 045",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000046",
+    "course_name": "AI Course 046",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000047",
+    "course_name": "Data Analytics Course 047",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000048",
+    "course_name": "Data Analytics Course 048",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000049",
+    "course_name": "Data Analytics Course 049",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000050",
+    "course_name": "Data Analytics Course 050",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000051",
+    "course_name": "Databases Course 051",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000052",
+    "course_name": "Data Analytics Course 052",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000053",
+    "course_name": "AI Course 053",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000054",
+    "course_name": "Data Analytics Course 054",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000055",
+    "course_name": "Databases Course 055",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000056",
+    "course_name": "AI Course 056",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000057",
+    "course_name": "Programming Course 057",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000058",
+    "course_name": "AI Course 058",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000059",
+    "course_name": "Programming Course 059",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000060",
+    "course_name": "AI Course 060",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000061",
+    "course_name": "Data Analytics Course 061",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000062",
+    "course_name": "Databases Course 062",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000063",
+    "course_name": "Programming Course 063",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000064",
+    "course_name": "Data Analytics Course 064",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000065",
+    "course_name": "AI Course 065",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000066",
+    "course_name": "Data Analytics Course 066",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000067",
+    "course_name": "Databases Course 067",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000068",
+    "course_name": "Databases Course 068",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000069",
+    "course_name": "Data Analytics Course 069",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000070",
+    "course_name": "Databases Course 070",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000071",
+    "course_name": "Databases Course 071",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000072",
+    "course_name": "Databases Course 072",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000073",
+    "course_name": "Databases Course 073",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000074",
+    "course_name": "Databases Course 074",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000075",
+    "course_name": "Programming Course 075",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000076",
+    "course_name": "AI Course 076",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000077",
+    "course_name": "Programming Course 077",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000078",
+    "course_name": "AI Course 078",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000079",
+    "course_name": "Programming Course 079",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000080",
+    "course_name": "AI Course 080",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000081",
+    "course_name": "Programming Course 081",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000082",
+    "course_name": "Programming Course 082",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000083",
+    "course_name": "Databases Course 083",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000084",
+    "course_name": "Programming Course 084",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000085",
+    "course_name": "Programming Course 085",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000086",
+    "course_name": "Data Analytics Course 086",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000087",
+    "course_name": "Data Analytics Course 087",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000088",
+    "course_name": "Programming Course 088",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000089",
+    "course_name": "Databases Course 089",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000090",
+    "course_name": "AI Course 090",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000091",
+    "course_name": "Databases Course 091",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000092",
+    "course_name": "Databases Course 092",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000093",
+    "course_name": "Programming Course 093",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000094",
+    "course_name": "Data Analytics Course 094",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000095",
+    "course_name": "AI Course 095",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000096",
+    "course_name": "Programming Course 096",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000097",
+    "course_name": "Programming Course 097",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000098",
+    "course_name": "Databases Course 098",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000099",
+    "course_name": "AI Course 099",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000100",
+    "course_name": "AI Course 100",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000101",
+    "course_name": "AI Course 101",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000102",
+    "course_name": "Databases Course 102",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000103",
+    "course_name": "Data Analytics Course 103",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000104",
+    "course_name": "AI Course 104",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000105",
+    "course_name": "Programming Course 105",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000106",
+    "course_name": "Databases Course 106",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000107",
+    "course_name": "Data Analytics Course 107",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000108",
+    "course_name": "Programming Course 108",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000109",
+    "course_name": "AI Course 109",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000110",
+    "course_name": "AI Course 110",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000111",
+    "course_name": "Databases Course 111",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000112",
+    "course_name": "AI Course 112",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000113",
+    "course_name": "AI Course 113",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000114",
+    "course_name": "Databases Course 114",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000115",
+    "course_name": "Databases Course 115",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000116",
+    "course_name": "Databases Course 116",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000117",
+    "course_name": "Data Analytics Course 117",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000118",
+    "course_name": "Data Analytics Course 118",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000119",
+    "course_name": "AI Course 119",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000120",
+    "course_name": "Programming Course 120",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000121",
+    "course_name": "Data Analytics Course 121",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000122",
+    "course_name": "Data Analytics Course 122",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000123",
+    "course_name": "Databases Course 123",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000124",
+    "course_name": "AI Course 124",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000125",
+    "course_name": "Data Analytics Course 125",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000126",
+    "course_name": "Data Analytics Course 126",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000127",
+    "course_name": "Data Analytics Course 127",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000128",
+    "course_name": "Data Analytics Course 128",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000129",
+    "course_name": "Programming Course 129",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000130",
+    "course_name": "AI Course 130",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000131",
+    "course_name": "Programming Course 131",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000132",
+    "course_name": "AI Course 132",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000133",
+    "course_name": "AI Course 133",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000134",
+    "course_name": "AI Course 134",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000135",
+    "course_name": "Programming Course 135",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000136",
+    "course_name": "AI Course 136",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000137",
+    "course_name": "Programming Course 137",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000138",
+    "course_name": "AI Course 138",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000139",
+    "course_name": "Databases Course 139",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000140",
+    "course_name": "Databases Course 140",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000141",
+    "course_name": "Programming Course 141",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000142",
+    "course_name": "Programming Course 142",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000143",
+    "course_name": "Databases Course 143",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000144",
+    "course_name": "Programming Course 144",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000145",
+    "course_name": "Programming Course 145",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000146",
+    "course_name": "Programming Course 146",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000147",
+    "course_name": "Data Analytics Course 147",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000148",
+    "course_name": "Databases Course 148",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000149",
+    "course_name": "Programming Course 149",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000150",
+    "course_name": "AI Course 150",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000151",
+    "course_name": "Programming Course 151",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000152",
+    "course_name": "Data Analytics Course 152",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000153",
+    "course_name": "Databases Course 153",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000154",
+    "course_name": "AI Course 154",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000155",
+    "course_name": "Databases Course 155",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000156",
+    "course_name": "Databases Course 156",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000157",
+    "course_name": "AI Course 157",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000158",
+    "course_name": "Programming Course 158",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000159",
+    "course_name": "AI Course 159",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000160",
+    "course_name": "Programming Course 160",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000161",
+    "course_name": "Databases Course 161",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000162",
+    "course_name": "Databases Course 162",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000163",
+    "course_name": "AI Course 163",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000164",
+    "course_name": "Data Analytics Course 164",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000165",
+    "course_name": "Databases Course 165",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000166",
+    "course_name": "Programming Course 166",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000167",
+    "course_name": "Data Analytics Course 167",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000168",
+    "course_name": "Programming Course 168",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000169",
+    "course_name": "Databases Course 169",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000170",
+    "course_name": "Databases Course 170",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000171",
+    "course_name": "AI Course 171",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000172",
+    "course_name": "AI Course 172",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000173",
+    "course_name": "Data Analytics Course 173",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000174",
+    "course_name": "Programming Course 174",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000175",
+    "course_name": "Databases Course 175",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000176",
+    "course_name": "Databases Course 176",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000177",
+    "course_name": "AI Course 177",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000178",
+    "course_name": "Programming Course 178",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000179",
+    "course_name": "Databases Course 179",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000180",
+    "course_name": "AI Course 180",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000181",
+    "course_name": "Databases Course 181",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000182",
+    "course_name": "AI Course 182",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000183",
+    "course_name": "AI Course 183",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000184",
+    "course_name": "Data Analytics Course 184",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000185",
+    "course_name": "AI Course 185",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000186",
+    "course_name": "Data Analytics Course 186",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000187",
+    "course_name": "Programming Course 187",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000188",
+    "course_name": "AI Course 188",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000189",
+    "course_name": "Programming Course 189",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000190",
+    "course_name": "Programming Course 190",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000191",
+    "course_name": "Programming Course 191",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000192",
+    "course_name": "AI Course 192",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000193",
+    "course_name": "Databases Course 193",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000194",
+    "course_name": "Programming Course 194",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000195",
+    "course_name": "Data Analytics Course 195",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000196",
+    "course_name": "Databases Course 196",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000197",
+    "course_name": "Programming Course 197",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000198",
+    "course_name": "AI Course 198",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000199",
+    "course_name": "Databases Course 199",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000200",
+    "course_name": "Programming Course 200",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000201",
+    "course_name": "Data Analytics Course 201",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000202",
+    "course_name": "Data Analytics Course 202",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000203",
+    "course_name": "Data Analytics Course 203",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000204",
+    "course_name": "Databases Course 204",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000205",
+    "course_name": "AI Course 205",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000206",
+    "course_name": "AI Course 206",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000207",
+    "course_name": "AI Course 207",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000208",
+    "course_name": "Databases Course 208",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000209",
+    "course_name": "Programming Course 209",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000210",
+    "course_name": "AI Course 210",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000211",
+    "course_name": "Data Analytics Course 211",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000212",
+    "course_name": "Data Analytics Course 212",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000213",
+    "course_name": "Data Analytics Course 213",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000214",
+    "course_name": "Data Analytics Course 214",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000215",
+    "course_name": "Programming Course 215",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000216",
+    "course_name": "Programming Course 216",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000217",
+    "course_name": "Databases Course 217",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000218",
+    "course_name": "Data Analytics Course 218",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000219",
+    "course_name": "AI Course 219",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000220",
+    "course_name": "Databases Course 220",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000221",
+    "course_name": "Databases Course 221",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000222",
+    "course_name": "Data Analytics Course 222",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000223",
+    "course_name": "AI Course 223",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000224",
+    "course_name": "Data Analytics Course 224",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000225",
+    "course_name": "AI Course 225",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000226",
+    "course_name": "Data Analytics Course 226",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000227",
+    "course_name": "Programming Course 227",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000228",
+    "course_name": "Data Analytics Course 228",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000229",
+    "course_name": "Databases Course 229",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000230",
+    "course_name": "Databases Course 230",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000231",
+    "course_name": "Databases Course 231",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000232",
+    "course_name": "Data Analytics Course 232",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000233",
+    "course_name": "Programming Course 233",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000234",
+    "course_name": "Databases Course 234",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000235",
+    "course_name": "Programming Course 235",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000236",
+    "course_name": "Data Analytics Course 236",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000237",
+    "course_name": "Programming Course 237",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000238",
+    "course_name": "Data Analytics Course 238",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000239",
+    "course_name": "AI Course 239",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000240",
+    "course_name": "Data Analytics Course 240",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000241",
+    "course_name": "Databases Course 241",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000242",
+    "course_name": "Databases Course 242",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000243",
+    "course_name": "Data Analytics Course 243",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000244",
+    "course_name": "Programming Course 244",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000245",
+    "course_name": "Programming Course 245",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000246",
+    "course_name": "Databases Course 246",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000247",
+    "course_name": "Databases Course 247",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000248",
+    "course_name": "Programming Course 248",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000249",
+    "course_name": "Data Analytics Course 249",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000250",
+    "course_name": "Programming Course 250",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000251",
+    "course_name": "Programming Course 251",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000252",
+    "course_name": "AI Course 252",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000253",
+    "course_name": "Data Analytics Course 253",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000254",
+    "course_name": "AI Course 254",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000255",
+    "course_name": "Data Analytics Course 255",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000256",
+    "course_name": "Databases Course 256",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000257",
+    "course_name": "Data Analytics Course 257",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000258",
+    "course_name": "Programming Course 258",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000259",
+    "course_name": "AI Course 259",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000260",
+    "course_name": "Programming Course 260",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000261",
+    "course_name": "AI Course 261",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000262",
+    "course_name": "AI Course 262",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000263",
+    "course_name": "AI Course 263",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000264",
+    "course_name": "Data Analytics Course 264",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000265",
+    "course_name": "Data Analytics Course 265",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000266",
+    "course_name": "Databases Course 266",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000267",
+    "course_name": "Data Analytics Course 267",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000268",
+    "course_name": "Databases Course 268",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000269",
+    "course_name": "Data Analytics Course 269",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000270",
+    "course_name": "AI Course 270",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000271",
+    "course_name": "AI Course 271",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000272",
+    "course_name": "Data Analytics Course 272",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000273",
+    "course_name": "Programming Course 273",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000274",
+    "course_name": "Databases Course 274",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000275",
+    "course_name": "Programming Course 275",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000276",
+    "course_name": "Databases Course 276",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000277",
+    "course_name": "AI Course 277",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000278",
+    "course_name": "AI Course 278",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000279",
+    "course_name": "Databases Course 279",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000280",
+    "course_name": "Programming Course 280",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000281",
+    "course_name": "Databases Course 281",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000282",
+    "course_name": "AI Course 282",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000283",
+    "course_name": "AI Course 283",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000284",
+    "course_name": "Data Analytics Course 284",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000285",
+    "course_name": "Databases Course 285",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000286",
+    "course_name": "Databases Course 286",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000287",
+    "course_name": "Programming Course 287",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000288",
+    "course_name": "Databases Course 288",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000289",
+    "course_name": "Programming Course 289",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000290",
+    "course_name": "Programming Course 290",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000291",
+    "course_name": "Databases Course 291",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000292",
+    "course_name": "Data Analytics Course 292",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000293",
+    "course_name": "Databases Course 293",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000294",
+    "course_name": "Databases Course 294",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000295",
+    "course_name": "Databases Course 295",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000296",
+    "course_name": "Programming Course 296",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000297",
+    "course_name": "AI Course 297",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000298",
+    "course_name": "Programming Course 298",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000299",
+    "course_name": "Databases Course 299",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000300",
+    "course_name": "AI Course 300",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000301",
+    "course_name": "AI Course 301",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000302",
+    "course_name": "Data Analytics Course 302",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000303",
+    "course_name": "Data Analytics Course 303",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000304",
+    "course_name": "Data Analytics Course 304",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000305",
+    "course_name": "Programming Course 305",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000306",
+    "course_name": "Programming Course 306",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000307",
+    "course_name": "Databases Course 307",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000308",
+    "course_name": "Data Analytics Course 308",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000309",
+    "course_name": "Programming Course 309",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000310",
+    "course_name": "Programming Course 310",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000311",
+    "course_name": "Data Analytics Course 311",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000312",
+    "course_name": "Programming Course 312",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000313",
+    "course_name": "Programming Course 313",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000314",
+    "course_name": "Data Analytics Course 314",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000315",
+    "course_name": "Databases Course 315",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000316",
+    "course_name": "Data Analytics Course 316",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000317",
+    "course_name": "Data Analytics Course 317",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000318",
+    "course_name": "AI Course 318",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000319",
+    "course_name": "Programming Course 319",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000320",
+    "course_name": "AI Course 320",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000321",
+    "course_name": "Databases Course 321",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000322",
+    "course_name": "Databases Course 322",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000323",
+    "course_name": "Databases Course 323",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000324",
+    "course_name": "Data Analytics Course 324",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000325",
+    "course_name": "Data Analytics Course 325",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000326",
+    "course_name": "Databases Course 326",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000327",
+    "course_name": "Databases Course 327",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000328",
+    "course_name": "AI Course 328",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000329",
+    "course_name": "Programming Course 329",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000330",
+    "course_name": "Data Analytics Course 330",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000331",
+    "course_name": "Programming Course 331",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000332",
+    "course_name": "Programming Course 332",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000333",
+    "course_name": "Programming Course 333",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000334",
+    "course_name": "AI Course 334",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000335",
+    "course_name": "Data Analytics Course 335",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000336",
+    "course_name": "Data Analytics Course 336",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000337",
+    "course_name": "Data Analytics Course 337",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000338",
+    "course_name": "Data Analytics Course 338",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000339",
+    "course_name": "AI Course 339",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000340",
+    "course_name": "Data Analytics Course 340",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000341",
+    "course_name": "AI Course 341",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000342",
+    "course_name": "Programming Course 342",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000343",
+    "course_name": "Databases Course 343",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000344",
+    "course_name": "AI Course 344",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000345",
+    "course_name": "Data Analytics Course 345",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000346",
+    "course_name": "Databases Course 346",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000347",
+    "course_name": "Databases Course 347",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000348",
+    "course_name": "Data Analytics Course 348",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000349",
+    "course_name": "Data Analytics Course 349",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000350",
+    "course_name": "AI Course 350",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000351",
+    "course_name": "Databases Course 351",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000352",
+    "course_name": "Databases Course 352",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000353",
+    "course_name": "Databases Course 353",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000354",
+    "course_name": "Data Analytics Course 354",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000355",
+    "course_name": "Databases Course 355",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000356",
+    "course_name": "Programming Course 356",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000357",
+    "course_name": "Programming Course 357",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000358",
+    "course_name": "Databases Course 358",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000359",
+    "course_name": "Databases Course 359",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000360",
+    "course_name": "Programming Course 360",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000361",
+    "course_name": "AI Course 361",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000362",
+    "course_name": "AI Course 362",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000363",
+    "course_name": "Data Analytics Course 363",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000364",
+    "course_name": "Data Analytics Course 364",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000365",
+    "course_name": "Databases Course 365",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000366",
+    "course_name": "AI Course 366",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000367",
+    "course_name": "Data Analytics Course 367",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000368",
+    "course_name": "Programming Course 368",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000369",
+    "course_name": "AI Course 369",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000370",
+    "course_name": "Data Analytics Course 370",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000371",
+    "course_name": "Databases Course 371",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000372",
+    "course_name": "Databases Course 372",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000373",
+    "course_name": "Programming Course 373",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000374",
+    "course_name": "Databases Course 374",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000375",
+    "course_name": "AI Course 375",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000376",
+    "course_name": "Programming Course 376",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000377",
+    "course_name": "AI Course 377",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000378",
+    "course_name": "Programming Course 378",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000379",
+    "course_name": "Programming Course 379",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000380",
+    "course_name": "Programming Course 380",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000381",
+    "course_name": "Databases Course 381",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000382",
+    "course_name": "Data Analytics Course 382",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000383",
+    "course_name": "AI Course 383",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000384",
+    "course_name": "Databases Course 384",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000385",
+    "course_name": "Databases Course 385",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000386",
+    "course_name": "AI Course 386",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000387",
+    "course_name": "AI Course 387",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000388",
+    "course_name": "Data Analytics Course 388",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000389",
+    "course_name": "AI Course 389",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000390",
+    "course_name": "Programming Course 390",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000391",
+    "course_name": "Databases Course 391",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000392",
+    "course_name": "Databases Course 392",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000393",
+    "course_name": "AI Course 393",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000394",
+    "course_name": "AI Course 394",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000395",
+    "course_name": "Programming Course 395",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000396",
+    "course_name": "Data Analytics Course 396",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000397",
+    "course_name": "Databases Course 397",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000398",
+    "course_name": "Programming Course 398",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000399",
+    "course_name": "Programming Course 399",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000400",
+    "course_name": "Data Analytics Course 400",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000401",
+    "course_name": "Data Analytics Course 401",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000402",
+    "course_name": "Data Analytics Course 402",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000403",
+    "course_name": "Programming Course 403",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000404",
+    "course_name": "AI Course 404",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000405",
+    "course_name": "Data Analytics Course 405",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000406",
+    "course_name": "Programming Course 406",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000407",
+    "course_name": "Databases Course 407",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000408",
+    "course_name": "Programming Course 408",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000409",
+    "course_name": "Databases Course 409",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000410",
+    "course_name": "Data Analytics Course 410",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000411",
+    "course_name": "Databases Course 411",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000412",
+    "course_name": "AI Course 412",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000413",
+    "course_name": "Databases Course 413",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000414",
+    "course_name": "Programming Course 414",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000415",
+    "course_name": "Databases Course 415",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000416",
+    "course_name": "Data Analytics Course 416",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000417",
+    "course_name": "Data Analytics Course 417",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000418",
+    "course_name": "AI Course 418",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000419",
+    "course_name": "Programming Course 419",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000420",
+    "course_name": "Databases Course 420",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000421",
+    "course_name": "Databases Course 421",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000422",
+    "course_name": "AI Course 422",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000423",
+    "course_name": "Programming Course 423",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000424",
+    "course_name": "Databases Course 424",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000425",
+    "course_name": "AI Course 425",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000426",
+    "course_name": "AI Course 426",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000427",
+    "course_name": "Databases Course 427",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000428",
+    "course_name": "Data Analytics Course 428",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000429",
+    "course_name": "Databases Course 429",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000430",
+    "course_name": "Programming Course 430",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000431",
+    "course_name": "Data Analytics Course 431",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000432",
+    "course_name": "Programming Course 432",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000433",
+    "course_name": "AI Course 433",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000434",
+    "course_name": "Programming Course 434",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000435",
+    "course_name": "Data Analytics Course 435",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000436",
+    "course_name": "Databases Course 436",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000437",
+    "course_name": "Databases Course 437",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000438",
+    "course_name": "Data Analytics Course 438",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000439",
+    "course_name": "AI Course 439",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000440",
+    "course_name": "Programming Course 440",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000441",
+    "course_name": "Data Analytics Course 441",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000442",
+    "course_name": "Databases Course 442",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000443",
+    "course_name": "Programming Course 443",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000444",
+    "course_name": "Programming Course 444",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000445",
+    "course_name": "Data Analytics Course 445",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000446",
+    "course_name": "Programming Course 446",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000447",
+    "course_name": "Programming Course 447",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000448",
+    "course_name": "Data Analytics Course 448",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000449",
+    "course_name": "AI Course 449",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000450",
+    "course_name": "Programming Course 450",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000451",
+    "course_name": "Programming Course 451",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000452",
+    "course_name": "Databases Course 452",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000453",
+    "course_name": "AI Course 453",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000454",
+    "course_name": "Databases Course 454",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000455",
+    "course_name": "Databases Course 455",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000456",
+    "course_name": "Databases Course 456",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000457",
+    "course_name": "Databases Course 457",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000458",
+    "course_name": "AI Course 458",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000459",
+    "course_name": "Databases Course 459",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000460",
+    "course_name": "AI Course 460",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000461",
+    "course_name": "Programming Course 461",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000462",
+    "course_name": "Programming Course 462",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000463",
+    "course_name": "Programming Course 463",
+    "category": "Programming",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000464",
+    "course_name": "Databases Course 464",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000465",
+    "course_name": "Programming Course 465",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000466",
+    "course_name": "AI Course 466",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000467",
+    "course_name": "AI Course 467",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000468",
+    "course_name": "AI Course 468",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000469",
+    "course_name": "Databases Course 469",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000470",
+    "course_name": "Data Analytics Course 470",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000471",
+    "course_name": "Data Analytics Course 471",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000472",
+    "course_name": "Data Analytics Course 472",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000473",
+    "course_name": "Databases Course 473",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000474",
+    "course_name": "Data Analytics Course 474",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000475",
+    "course_name": "AI Course 475",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000476",
+    "course_name": "AI Course 476",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000477",
+    "course_name": "Databases Course 477",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000478",
+    "course_name": "Data Analytics Course 478",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000479",
+    "course_name": "Programming Course 479",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000480",
+    "course_name": "Data Analytics Course 480",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000481",
+    "course_name": "AI Course 481",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000482",
+    "course_name": "Databases Course 482",
+    "category": "Databases",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000483",
+    "course_name": "AI Course 483",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000484",
+    "course_name": "AI Course 484",
+    "category": "AI",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000485",
+    "course_name": "Data Analytics Course 485",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000486",
+    "course_name": "AI Course 486",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000487",
+    "course_name": "AI Course 487",
+    "category": "AI",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000488",
+    "course_name": "Databases Course 488",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000489",
+    "course_name": "Data Analytics Course 489",
+    "category": "Data Analytics",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000490",
+    "course_name": "Data Analytics Course 490",
+    "category": "Data Analytics",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000491",
+    "course_name": "Programming Course 491",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000492",
+    "course_name": "Databases Course 492",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000493",
+    "course_name": "AI Course 493",
+    "category": "AI",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000494",
+    "course_name": "Programming Course 494",
+    "category": "Programming",
+    "difficulty": "advanced",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000495",
+    "course_name": "Programming Course 495",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000496",
+    "course_name": "Databases Course 496",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000497",
+    "course_name": "Data Analytics Course 497",
+    "category": "Data Analytics",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000498",
+    "course_name": "Programming Course 498",
+    "category": "Programming",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000499",
+    "course_name": "Databases Course 499",
+    "category": "Databases",
+    "difficulty": "beginner",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
+  },
+  {
+    "course_id": "CRS-000500",
+    "course_name": "Databases Course 500",
+    "category": "Databases",
+    "difficulty": "intermediate",
+    "course_status": "published",
+    "created_at": "2026-01-01 00:00:00"
   }
 ]

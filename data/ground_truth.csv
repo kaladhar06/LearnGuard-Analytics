@@ -3,4 +3,3 @@ ANOM-001,duplicate_event,ActivityEvent,ANOM-DUP-EVT-ENR-LRN-000001-CRS-000009-00
 ANOM-002,unenrolled_activity,ActivityEvent,ANOM-UNENROLLED-001,Activity exists without a valid course enrollment,high
 ANOM-003,premature_completion,CourseOutcome,ANOM-OUTCOME-003,Completion recorded before required assessment pass,high
 ANOM-004,timezone_shift,ActivityEvent,ANOM-TIMEZONE-004,UTC date differs from reporting-local date,medium
-
