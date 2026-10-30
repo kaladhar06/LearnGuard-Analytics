@@ -1,357 +1,480 @@
 # LearnGuard Analytics
 
-## 1. Overview
+### Learning Analytics, Synthetic Data Engineering & Data Quality Impact Auditing
 
-LearnGuard Analytics is a learning analytics and data quality project designed to analyze learner participation, course activity, assessment progress, and course completion.
+LearnGuard Analytics is a learning analytics project designed to organize learner activity data, monitor learning progress, identify data-quality anomalies, and provide insights through a Python-based REST API.
 
-The project uses MySQL, Python, synthetic learning activity data, data validation, and a Data Quality Impact Audit to identify issues that can distort learning analytics.
+The project combines synthetic educational data generation, MySQL database management, data validation, anomaly detection, CSV/JSON exports, and explainable data-quality impact auditing.
 
-It demonstrates relational data modeling, synthetic data generation, anomaly detection, data validation, reproducible exports, and REST API development.
+---
 
-## 2. Key Features
+## 1. Project Overview
 
-- Relational MySQL database with primary and foreign key constraints.
-- Synthetic learner, course, enrollment, assessment, and activity data.
-- Large-scale activity CSV generation using a fixed random seed.
-- CSV and JSON exports for downstream analysis.
-- Referential integrity and date consistency validation.
-- Four labeled data quality anomalies.
-- Ground-truth labels for evaluating anomaly detection.
-- Data Quality Impact Audit with recommended corrective actions.
-- Source manifest containing export counts and checksums.
-- FastAPI endpoints for learner mastery, recommendations, learning paths, and learning content.
+Online learning platforms generate large amounts of data through learner enrollments, course interactions, assessments, learning activities, and course completions.
+
+However, inaccurate or inconsistent records can affect engagement metrics, learner progress calculations, and reporting.
+
+LearnGuard Analytics addresses these challenges by:
+
+- Creating a large synthetic educational dataset.
+- Managing learner, course, enrollment, and activity information using MySQL.
+- Identifying data-quality issues and intentionally introduced anomalies.
+- Validating relationships and data consistency.
+- Measuring the impact of anomalies on learning analytics.
+- Providing learner mastery, recommendations, and learning-path information through REST API endpoints.
+- Exporting structured datasets for further analysis.
+
+## 2. Project Objectives
+
+1. Build a synthetic learning analytics dataset.
+2. Manage educational entities and relationships using MySQL.
+3. Generate and maintain a 2-million-row learner activity CSV dataset.
+4. Identify and analyze four different categories of data anomalies.
+5. Validate primary relationships, foreign-key references, and data consistency.
+6. Measure how data-quality issues affect analytical results.
+7. Develop REST API endpoints using FastAPI.
+8. Export database tables into CSV and JSON formats.
+9. Document the dataset, validation results, and data-quality findings.
 
 ## 3. Technology Stack
 
-- **Language:** Python
-- **Database:** MySQL 8.0
-- **API:** FastAPI
-- **Data processing:** pandas
-- **Database connectivity:** mysql-connector-python
-- **Configuration:** python-dotenv
-- **Data formats:** CSV and JSON
-- **API documentation:** OpenAPI / Swagger UI
-- **Version control:** Git and GitHub
+| Category | Technologies |
+|---|---|
+| Programming Language | Python |
+| Database | MySQL 8.0 |
+| Backend Framework | FastAPI |
+| API Server | Uvicorn |
+| Data Processing | Pandas |
+| Database Connectivity | mysql-connector-python |
+| Environment Configuration | python-dotenv |
+| API Documentation | Swagger UI / OpenAPI |
+| Testing | Python unittest and unittest.mock |
+| Data Formats | CSV, JSON, SQL |
 
-## 4. Dataset Status
+## 4. Dataset Configuration
 
-### 4.1 Current MySQL staging dataset
+The project includes a synthetic educational dataset with the following target configuration:
 
-The current MySQL staging database, `learnguard_staging`, contains the following records.
-
-| Entity | Records |
+| Dataset Component | Records |
 |---|---:|
-| Learners | 100 |
-| Courses | 10 |
-| Enrollments | 300 |
-| Content items | 40 |
-| Activity events | 2,003 |
-| Assessments | 10 |
-| Assessment attempts | 300 |
-| Completion rules | 10 |
-| Cohorts | 9 |
-| Enrollment-cohort assignments | 300 |
-| Course outcomes | 301 |
+| Learners | 20,000 |
+| Courses | 500 |
+| Enrollments | 100,000 |
+| Content Items | 2,000 |
+| Baseline Activity Events | 2,000,000 |
 
-The activity table contains 2,000 baseline events and three additional flagged anomaly events. A separate anomalous course outcome is also present.
+Additional database entities include assessments, attempts, completion rules, course outcomes, cohorts, and enrollment-cohort relationships.
 
-### 4.2 Generated full-scale activity CSV
+### Actual database records
 
-A separate synthetic activity dataset was generated at:
+The final staging database validation confirmed the following:
+
+| Database Table | Actual Records |
+|---|---:|
+| Learner | 20,000 |
+| Course | 500 |
+| Enrollment | 100,000 |
+| ContentItem | 2,000 |
+| ActivityEvent | 2,003 |
+| Assessment | 500 |
+| Attempt | 300 |
+| CompletionRule | 500 |
+| CourseOutcome | 301 |
+| Cohort | 19 |
+| EnrollmentCohort | 100,000 |
+
+**Important dataset distinction:**
+
+The 2-million-event baseline dataset is maintained as a separate CSV file:
 
 `data/generated_activity_preview.csv`
 
-| Property | Value |
-|---|---|
-| Baseline activity rows | 2,000,000 |
-| Columns | 11 |
-| File size | 388,389,218 bytes |
-| Random seed | 20261022 |
-| SHA-256 | `3328b71e92ea87ed0cd0c7b68f1c69c6da0e06880ef6a060027987581534961a` |
-| Database written by generator | No |
+The MySQL `ActivityEvent` table contains 2,003 records. The two datasets are separate and should not be confused.
 
-The CSV passed the row-count and column-count checks. Event IDs and idempotency keys were generated deterministically using the configured seed.
+## 5. Synthetic Activity Dataset
 
-**Important scope distinction:** The two-million-event CSV was generated separately from MySQL. The complete relational dataset has not yet reached the full-scale target of 20,000 learners, 500 courses, and 100,000 enrollments. The CSV should not be interpreted as proof that those relational tables have been populated at full scale.
+The large-scale activity dataset contains 2,000,000 data rows and 11 columns.
 
-## 5. Data Quality Anomalies
+It represents learner interactions with an online learning platform.
 
-The project includes four labeled anomaly types.
+The synthetic activity scenarios include:
 
-### 5.1 Duplicate activity events
+- Inactive learners.
+- Mobile and offline activity synchronization.
+- Late-arriving events.
+- Repeated attempts.
+- Learner activity records used for engagement analysis.
 
-Repeated idempotency keys can cause the same logical activity to be counted more than once, inflating engagement metrics.
+The generated CSV file is maintained separately from the MySQL activity table.
 
-**Recommended action:** Identify repeated keys and deduplicate logical activity for analytical calculations while preserving original source records.
+### Dataset integrity
 
-### 5.2 Activity from an unenrolled learner
+The final audit verified:
 
-An activity event may refer to a learner who does not have a valid enrollment for the associated course.
+- The CSV file exists.
+- It contains exactly 2,000,000 data rows.
+- It contains the expected 11 columns.
+- The desktop backup matches the main CSV file.
+- The SHA-256 checksum matches the recorded dataset checksum.
 
-**Recommended action:** Validate learner-enrollment relationships and exclude or quarantine confirmed invalid events from enrollment-based metrics.
+**SHA-256:**
 
-### 5.3 Premature completion
+`2e12a0c6b183dd23e0e38da4abe42a7c424aa8e262ff63586230a23b45faddcc`
 
-A course outcome may be marked completed before the required assessment has been passed.
+The dataset configuration uses seed `20261022`.
 
-**Recommended action:** Recalculate completion using assessment timestamps and the applicable completion rules.
+## 6. Data Quality Anomalies
 
-### 5.4 Timezone-related reporting-day shift
+Four categories of anomalies were intentionally introduced and analyzed.
 
-An event timestamp in UTC may fall on a different calendar date when converted to the reporting timezone, Asia/Kolkata.
+### 1. Duplicate Events
 
-**Recommended action:** Preserve timestamps in UTC and convert them to the reporting timezone when calculating daily metrics.
+Repeated activity events can inflate engagement measurements.
 
-### Ground-truth labels
+**Impact:** The number of logical activity events can be overstated.
 
-The anomaly labels are maintained separately in:
+### 2. Activity from Unenrolled Learners
 
-`data/ground_truth.csv`
+Activity records may exist for learners who are not enrolled in the corresponding course.
 
-This file contains the anomaly ID, anomaly type, affected entity, expected issue, and severity. Ground-truth labels should not be used as ordinary predictive input features.
+**Impact:** Such records can incorrectly contribute to eligible course activity metrics.
 
-## 6. Data Quality Impact Audit
+### 3. Premature Completion
 
-The Data Quality Impact Audit identifies the four anomaly types and explains their potential impact on analytics.
+A course completion may be recorded before the required assessment has been completed.
 
-The current audit reported:
+**Impact:** Completion metrics can incorrectly represent learner progress.
 
-| Anomaly | Detected | Metric impact |
-|---|---:|---|
-| Duplicate event | 1 | One excess activity row |
-| Unenrolled activity | 1 | One event fails the enrollment relationship check |
-| Premature completion | 1 | One completion record is ineligible |
-| Timezone shift | 1 | One reporting-day mismatch |
+### 4. Timezone Shifts
 
-The report includes before-and-after metric values and recommended corrective actions.
+Timezone conversion issues can assign activity events to incorrect reporting days.
 
-Output file:
+**Impact:** Daily activity and engagement reports can become inaccurate.
+
+## 7. Data Quality Impact Audit
+
+One of the main features of LearnGuard Analytics is its explainable Data Quality Impact Audit.
+
+It evaluates how identified anomalies affect analytical measurements before and after approved corrections or exclusions.
+
+The audit records the anomaly category, affected records, and the corresponding metric impact.
+
+### Audit results
+
+| Anomaly | Before | After |
+|---|---:|---:|
+| Duplicate events | 2,003 logical activity rows | 2,002 |
+| Unenrolled activity | 2,003 eligible activity rows | 2,002 |
+| Premature completion | 1 eligible completion record | 0 |
+| Timezone shift | 1 reporting-day mismatch | 0 |
+
+The audit report is generated at:
 
 `reports/data_quality_impact_audit.csv`
 
-The audit preserves source records and documents analytical corrections rather than silently deleting data.
+The report contains four anomaly records.
 
-## 7. Project Structure
+The objective is not just to detect data-quality issues, but also to explain how they can affect learning analytics and reporting.
 
-```text
-LearnGuard-Analytics/
-├── data/
-│   ├── exports/
-│   ├── generated_activity_preview.csv
-│   ├── ground_truth.csv
-│   └── source_manifest.json
-├── docs/
-│   ├── data_dictionary.md
-│   └── validation_summary.md
-├── reports/
-│   └── data_quality_impact_audit.csv
-├── src/
-│   ├── api.py
-│   ├── config.py
-│   ├── controlled_rebuild.py
-│   ├── data_quality_audit.py
-│   ├── db_connection.py
-│   ├── export_data.py
-│   ├── generate_activities.py
-│   ├── generate_assessments.py
-│   ├── generate_data.py
-│   ├── preflight_check.py
-│   ├── run_pipeline.py
-│   └── validate_data.py
-├── .gitignore
-├── PROJECT_PLAN.md
-├── README.md
-└── requirements.txt
-```
+## 8. Data Validation
 
-## 8. Installation and Setup
+The project includes automated structural and relationship validation.
 
-### Prerequisites
+The latest validation confirmed nine structural checks passed.
 
-- Python 3.10 or later
-- MySQL 8.0
-- Git
+### Validation checks
 
-### Step 1: Clone the repository
+1. Missing learner enrollment references.
+2. Missing course enrollment references.
+3. Activity events with missing enrollment references.
+4. Learner and enrollment mismatches.
+5. Activity events referencing content from another course.
+6. Assessment attempts referencing assessments from another course.
+7. Course outcomes referencing rules from another course.
+8. Invalid assessment date ranges.
+9. Invalid enrollment date ordering.
 
-```powershell
-git clone https://github.com/kaladhar06/LearnGuard-Analytics.git
-cd LearnGuard-Analytics
-```
+### Expected anomaly reviews
 
-### Step 2: Create a virtual environment
+Two checks are marked REVIEW because of intentionally introduced anomalies:
 
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-```
+- Repeated event idempotency keys.
+- Activity from unenrolled learners.
 
-### Step 3: Install dependencies
+These are expected findings, not unexpected structural validation failures.
 
-```powershell
-pip install -r requirements.txt
-```
+## 9. Database Exports
 
-### Step 4: Configure the environment
+The project exports its database tables into CSV and JSON formats.
 
-Create a local `.env` file in the project root.
+The exported tables include:
 
-```text
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_USER=root
-DB_PASSWORD=your_local_password
-DB_NAME=learnguard_staging
-LEARNGUARD_DATASET_MODE=full
-LEARNGUARD_SEED=20261022
-```
+- Learner
+- Course
+- Enrollment
+- ContentItem
+- ActivityEvent
+- Assessment
+- Attempt
+- CompletionRule
+- CourseOutcome
+- Cohort
+- EnrollmentCohort
 
-Replace the example password with your local MySQL password.
+The CSV exports were checked against the actual staging database row counts.
 
-**Security:** Never commit `.env`, passwords, or database backups to GitHub.
+The project also maintains:
 
-### Step 5: Prepare the database
+- `data/ground_truth.csv` — contains the four anomaly labels.
+- `data/source_manifest.json` — contains dataset configuration and source metadata.
+- `reports/data_quality_impact_audit.csv` — contains the data-quality impact findings.
 
-Ensure the required schema and test data exist in `learnguard_staging` before running the database validation, audit, or export scripts.
+The ground-truth labels are maintained separately from the activity input data.
 
-The original `learnguard_analytics` database must not be used as a target for test or generation writes.
+## 10. REST API Development
 
-## 9. Generating Activity Data
+LearnGuard Analytics includes a REST API developed using FastAPI.
 
-The activity generator can create a synthetic CSV using the configured event count.
-
-Run:
-
-```powershell
-python -m src.generate_activities
-```
-
-The generated file is:
-
-`data/generated_activity_preview.csv`
-
-The generator reads enrollment and content information from `learnguard_staging` and writes generated activity events to CSV. It does not insert the generated events into MySQL.
-
-The configured full mode specifies two million baseline events. The current CSV has been verified to contain exactly 2,000,000 data rows and 11 columns.
-
-The generator depends on the enrollments and course content already present in the staging database. It does not create the full set of learners, courses, or enrollments.
-
-## 10. Data Validation and Export
-
-### Run the complete safe pipeline
-
-```powershell
-python -m src.run_pipeline
-```
-
-The pipeline performs:
-
-1. Database preflight checks.
-2. Staging data validation.
-3. Data Quality Impact Audit.
-4. CSV and JSON exports.
-5. Source manifest generation.
-
-### Run validation separately
-
-```powershell
-python -m src.validate_data
-```
-
-### Run the audit separately
-
-```powershell
-python -m src.data_quality_audit
-```
-
-### Export database tables
-
-```powershell
-python -m src.export_data
-```
-
-The exports are written to `data/exports/`, the manifest to `data/source_manifest.json`, and the audit report to `reports/data_quality_impact_audit.csv`.
-
-Run database-modifying scripts only after reviewing their database target and safety checks. Do not run untested rebuild scripts against a database containing data you need to preserve.
-
-## 11. REST API
-
-The project provides a FastAPI backend for learner progress, recommendations, learning paths, and learning-content access.
-
-### Start the API
-
-```powershell
-python -m uvicorn src.api:app --reload
-```
-
-Open the interactive API documentation:
-
-http://127.0.0.1:8000/docs
+The API provides learner-level analytics and learning information.
 
 ### Available endpoints
 
 | Method | Endpoint | Description |
 |---|---|---|
-| GET | `/` | API information |
+| GET | `/` | Project information and API status |
 | GET | `/health` | API and database health check |
-| GET | `/learners/{learner_id}/mastery` | Retrieve learner course progress |
-| GET | `/learners/{learner_id}/recommendations` | Retrieve learning recommendations |
-| POST | `/learners/{learner_id}/learning-paths` | Generate a learning path response |
-| GET | `/learners/{learner_id}/courses/{course_id}/learning-content` | Retrieve enrolled course content |
+| GET | `/learners/{learner_id}/mastery` | Retrieves learner course mastery |
+| GET | `/learners/{learner_id}/recommendations` | Retrieves learning recommendations |
+| POST | `/learners/{learner_id}/learning-paths` | Generates a learning path |
+| GET | `/learners/{learner_id}/courses/{course_id}/learning-content` | Retrieves course learning content |
 
-### API limitations
+### API documentation
 
-- The API has been tested against the current staging dataset.
-- The learning-path endpoint returns a response but does not persist a learning-path record.
-- API results depend on the data available in the staging database.
+FastAPI automatically provides interactive Swagger documentation.
 
-## 12. Validation Results
+Once the API server is running, access:
 
-The current staging dataset passed nine structural validation checks.
+`http://127.0.0.1:8000/docs`
 
-Two review flags remain intentionally present:
+### API verification
 
-1. A repeated event idempotency key.
-2. Activity from an unenrolled learner.
+The following were manually verified:
 
-The Data Quality Impact Audit detects all four labeled anomaly types, including the premature completion and timezone-related reporting-day shift.
+- Root endpoint.
+- Health endpoint.
+- Learner mastery.
+- Learner recommendations.
+- Learning content retrieval.
+- Learning-path generation.
 
-The two-million-event CSV has passed row-count and column-count checks. Full-scale population and validation of all relational tables remain outstanding.
+The API health endpoint confirmed the `learnguard_staging` database.
 
-## 13. Reproducibility and Data Quality Principles
+## 11. Automated API Testing
 
-- Use a fixed random seed for reproducible synthetic generation.
-- Record dataset sizes and checksums in the source manifest.
-- Validate primary-key and foreign-key relationships.
-- Check date ordering and lifecycle consistency.
-- Preserve original source records when identifying anomalies.
-- Keep ground-truth labels separate from analytical input features.
-- Store event timestamps in UTC and convert them for local reporting.
-- Distinguish expected test anomalies from unexpected validation failures.
-- Verify exported row counts and file checksums.
+The project includes automated API tests using Python's built-in `unittest` framework and mocking.
 
-## 14. Known Limitations
+Test file:
 
-- The MySQL database currently contains the test-scale relational dataset.
-- The two-million-event CSV is separate from the MySQL activity table.
-- The full-scale targets for learners, courses, and enrollments have not yet been populated and validated.
-- Two anomaly-related validation checks require review because of intentionally introduced test anomalies.
-- The learning-path API endpoint does not persist generated paths.
-- The generated activity CSV is a large local artifact and should not be committed to GitHub unless the submission instructions and repository storage approach explicitly support it.
+`tests/test_api.py`
 
-## 15. Security
+### Test coverage
 
-- Keep credentials in a local `.env` file.
-- Never publish passwords or sensitive connection settings.
-- Do not commit database backups or virtual-environment files.
-- Use `learnguard_staging` for test and validation operations.
-- Preserve the original `learnguard_analytics` database.
-- Review database-modifying scripts before execution.
+| Test Case | Result |
+|---|---|
+| Root endpoint | PASS |
+| Health endpoint | PASS |
+| Learner mastery | PASS |
+| Learning content | PASS |
+| Learning-path generation | PASS |
+| Missing learner returns 404 | PASS |
+| Recommendations | PASS |
 
-## 16. Repository
+**Final test result: 7/7 tests passed.**
 
-GitHub: https://github.com/kaladhar06/LearnGuard-Analytics
+### Run automated tests
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+The API tests mock database-fetch operations and do not require database writes.
+
+## 12. Project Structure
+
+```text
+LearnGuard-Analytics/
+│
+├── data/
+│   ├── generated_activity_preview.csv
+│   ├── ground_truth.csv
+│   └── source_manifest.json
+│
+├── docs/
+│   ├── data_dictionary.md
+│   └── validation_summary.md
+│
+├── exports/
+│   ├── CSV exports
+│   └── JSON exports
+│
+├── reports/
+│   └── data_quality_impact_audit.csv
+│
+├── src/
+│   ├── api.py
+│   ├── validate_data.py
+│   ├── data_quality_audit.py
+│   ├── run_pipeline.py
+│   └── other project modules
+│
+├── tests/
+│   └── test_api.py
+│
+├── PROJECT_PLAN.md
+├── README.md
+├── requirements.txt
+└── final_submission_check.py
+```
+
+*The structure above highlights the main project components; additional source files and local inspection files may also exist.*
+
+## 13. Installation and Setup
+
+### Prerequisites
+
+- Python 3.x
+- MySQL 8.0
+- Visual Studio Code
+- Git
+
+### Step 1: Clone the repository
+
+```bash
+git clone https://github.com/kaladhar06/LearnGuard-Analytics.git
+```
+
+```bash
+cd LearnGuard-Analytics
+```
+
+### Step 2: Create a virtual environment
+
+```bash
+python -m venv .venv
+```
+
+Activate it on Windows PowerShell:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+### Step 3: Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Configure database connection
+
+Create or configure the `.env` file with the appropriate MySQL connection settings.
+
+Use the staging database for project validation and testing.
+
+Verify the configured database before running any database-writing scripts.
+
+### Step 5: Run the API
+
+```bash
+uvicorn src.api:app --reload
+```
+
+Open:
+
+- API: `http://127.0.0.1:8000/`
+- Health: `http://127.0.0.1:8000/health`
+- Swagger: `http://127.0.0.1:8000/docs`
+
+## 14. Running Validation and Audit
+
+Run structural data validation:
+
+```bash
+python -m src.validate_data
+```
+
+Run the data-quality impact audit:
+
+```bash
+python -m src.data_quality_audit
+```
+
+Run the complete project pipeline:
+
+```bash
+python -m src.run_pipeline
+```
+
+The pipeline uses the configured project database. Verify that it is configured for `learnguard_staging` before executing it.
+
+### Final read-only submission audit
+
+```bash
+python final_submission_check.py
+```
+
+This checks:
+
+- Staging database record counts.
+- Two-million-row activity CSV.
+- CSV checksum.
+- Desktop backup integrity.
+- Database table exports.
+- Ground-truth anomaly labels.
+- Data-quality impact audit.
+- Source manifest validity.
+
+The final submission audit is read-only and does not insert, update, or delete database records.
+
+## 15. Project Limitations and Notes
+
+The following limitations are documented transparently:
+
+1. The MySQL `ActivityEvent` table contains 2,003 rows, while the separate baseline activity CSV contains 2,000,000 rows.
+2. The `Attempt` table contains 300 records.
+3. The `CourseOutcome` table contains 301 records.
+4. Two structural validation checks are marked REVIEW because they correspond to intentionally introduced anomalies.
+5. Full-scale automated database integration testing and end-to-end reproducibility have not been established by the final submission checks.
+
+The dataset and its backup should be preserved. Do not overwrite the original generated activity CSV during final submission preparation.
+
+## 16. Final Verification Summary
+
+The final submission audit confirmed:
+
+- 11 database table counts matched expected values.
+- The 2-million-row activity CSV was verified.
+- The CSV contained 11 expected columns.
+- The desktop backup matched the main dataset.
+- All 11 CSV table exports matched expected row counts.
+- Four ground-truth anomaly labels were present.
+- Four data-quality impact audit records were present.
+- The source manifest was valid JSON.
+- All seven automated API tests passed.
+- The API root, health, and Swagger documentation endpoints worked successfully.
+
+The project was maintained and tested using the `learnguard_staging` database.
 
 ---
 
-**Project summary:** LearnGuard Analytics demonstrates synthetic learning activity generation, relational data validation, anomaly detection, a Data Quality Impact Audit, reproducible CSV/JSON exports, and a FastAPI backend. The two-million-event CSV is generated and verified; full-scale population of the complete relational dataset remains future work.
+## 17. Conclusion
+
+LearnGuard Analytics demonstrates how synthetic educational data can be structured, validated, analyzed, and exposed through a Python-based REST API.
+
+The project combines database management, large-scale activity data handling, data-quality validation, anomaly detection, explainable impact auditing, and API development.
+
+It provides a foundation for understanding how data-quality issues influence learning analytics and how reliable data validation can improve the accuracy of learner progress and engagement reporting.
+
+**Project:** LearnGuard Analytics  
+**Repository:** https://github.com/kaladhar06/LearnGuard-Analytics  
+**Primary Technologies:** Python, MySQL, FastAPI, Pandas, CSV, JSON
